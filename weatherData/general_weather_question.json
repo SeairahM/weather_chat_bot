@@ -1,0 +1,6602 @@
+[
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-11 06:00:00?": {
+      "id": 1,
+      "name": "Lake District National Park",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 5.11,
+      "wind_speed": 4.96,
+      "Humidity": 93,
+      "Temperature": 8.0,
+      "Maximum Temperature": 8.6,
+      "Minimum Temperature": 8.0,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-11 09:00:00?": {
+      "id": 2,
+      "name": "Lake District National Park",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 4.74,
+      "wind_speed": 6.99,
+      "Humidity": 90,
+      "Temperature": 8.29,
+      "Maximum Temperature": 8.88,
+      "Minimum Temperature": 8.29,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-11 12:00:00?": {
+      "id": 3,
+      "name": "Lake District National Park",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 3.78,
+      "wind_speed": 9.43,
+      "Humidity": 85,
+      "Temperature": 8.06,
+      "Maximum Temperature": 8.09,
+      "Minimum Temperature": 8.06,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-11 15:00:00?": {
+      "id": 4,
+      "name": "Lake District National Park",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 4.36,
+      "wind_speed": 8.05,
+      "Humidity": 85,
+      "Temperature": 8.23,
+      "Maximum Temperature": 8.23,
+      "Minimum Temperature": 8.23,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-11 18:00:00?": {
+      "id": 5,
+      "name": "Lake District National Park",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 4.62,
+      "wind_speed": 5.95,
+      "Humidity": 90,
+      "Temperature": 7.92,
+      "Maximum Temperature": 7.92,
+      "Minimum Temperature": 7.92,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-11 21:00:00?": {
+      "id": 6,
+      "name": "Lake District National Park",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 7.14,
+      "wind_speed": 1.83,
+      "Humidity": 88,
+      "Temperature": 8.1,
+      "Maximum Temperature": 8.1,
+      "Minimum Temperature": 8.1,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-12 00:00:00?": {
+      "id": 7,
+      "name": "Lake District National Park",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 5.07,
+      "wind_speed": 4.22,
+      "Humidity": 86,
+      "Temperature": 7.7,
+      "Maximum Temperature": 7.7,
+      "Minimum Temperature": 7.7,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-12 03:00:00?": {
+      "id": 8,
+      "name": "Lake District National Park",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 4.59,
+      "wind_speed": 5.11,
+      "Humidity": 84,
+      "Temperature": 7.64,
+      "Maximum Temperature": 7.64,
+      "Minimum Temperature": 7.64,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-12 06:00:00?": {
+      "id": 9,
+      "name": "Lake District National Park",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 3.96,
+      "wind_speed": 6.99,
+      "Humidity": 82,
+      "Temperature": 7.68,
+      "Maximum Temperature": 7.68,
+      "Minimum Temperature": 7.68,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-12 09:00:00?": {
+      "id": 10,
+      "name": "Lake District National Park",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 3.65,
+      "wind_speed": 8.46,
+      "Humidity": 82,
+      "Temperature": 7.77,
+      "Maximum Temperature": 7.77,
+      "Minimum Temperature": 7.77,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-12 12:00:00?": {
+      "id": 11,
+      "name": "Lake District National Park",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 3.41,
+      "wind_speed": 9.9,
+      "Humidity": 83,
+      "Temperature": 7.87,
+      "Maximum Temperature": 7.87,
+      "Minimum Temperature": 7.87,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-12 15:00:00?": {
+      "id": 12,
+      "name": "Lake District National Park",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 3.53,
+      "wind_speed": 10.25,
+      "Humidity": 85,
+      "Temperature": 8.02,
+      "Maximum Temperature": 8.02,
+      "Minimum Temperature": 8.02,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-12 18:00:00?": {
+      "id": 13,
+      "name": "Lake District National Park",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 2.58,
+      "wind_speed": 11.47,
+      "Humidity": 89,
+      "Temperature": 7.51,
+      "Maximum Temperature": 7.51,
+      "Minimum Temperature": 7.51,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-12 21:00:00?": {
+      "id": 14,
+      "name": "Lake District National Park",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 1.93,
+      "wind_speed": 12.62,
+      "Humidity": 90,
+      "Temperature": 7.2,
+      "Maximum Temperature": 7.2,
+      "Minimum Temperature": 7.2,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-13 00:00:00?": {
+      "id": 15,
+      "name": "Lake District National Park",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 2.12,
+      "wind_speed": 10.17,
+      "Humidity": 90,
+      "Temperature": 6.94,
+      "Maximum Temperature": 6.94,
+      "Minimum Temperature": 6.94,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-13 03:00:00?": {
+      "id": 16,
+      "name": "Lake District National Park",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 2.09,
+      "wind_speed": 11.34,
+      "Humidity": 89,
+      "Temperature": 7.12,
+      "Maximum Temperature": 7.12,
+      "Minimum Temperature": 7.12,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-13 06:00:00?": {
+      "id": 17,
+      "name": "Lake District National Park",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 0.59,
+      "wind_speed": 14.76,
+      "Humidity": 91,
+      "Temperature": 6.51,
+      "Maximum Temperature": 6.51,
+      "Minimum Temperature": 6.51,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-13 09:00:00?": {
+      "id": 18,
+      "name": "Lake District National Park",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 0.18,
+      "wind_speed": 13.19,
+      "Humidity": 93,
+      "Temperature": 5.99,
+      "Maximum Temperature": 5.99,
+      "Minimum Temperature": 5.99,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-13 12:00:00?": {
+      "id": 19,
+      "name": "Lake District National Park",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 1.15,
+      "wind_speed": 12.03,
+      "Humidity": 79,
+      "Temperature": 6.53,
+      "Maximum Temperature": 6.53,
+      "Minimum Temperature": 6.53,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-13 15:00:00?": {
+      "id": 20,
+      "name": "Lake District National Park",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 0.9,
+      "wind_speed": 10.12,
+      "Humidity": 75,
+      "Temperature": 6.01,
+      "Maximum Temperature": 6.01,
+      "Minimum Temperature": 6.01,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-13 18:00:00?": {
+      "id": 21,
+      "name": "Lake District National Park",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 0.66,
+      "wind_speed": 8.88,
+      "Humidity": 74,
+      "Temperature": 5.58,
+      "Maximum Temperature": 5.58,
+      "Minimum Temperature": 5.58,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-13 21:00:00?": {
+      "id": 22,
+      "name": "Lake District National Park",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 1.66,
+      "wind_speed": 5.42,
+      "Humidity": 71,
+      "Temperature": 5.41,
+      "Maximum Temperature": 5.41,
+      "Minimum Temperature": 5.41,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-14 00:00:00?": {
+      "id": 23,
+      "name": "Lake District National Park",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 3.62,
+      "wind_speed": 2.25,
+      "Humidity": 65,
+      "Temperature": 5.42,
+      "Maximum Temperature": 5.42,
+      "Minimum Temperature": 5.42,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-14 03:00:00?": {
+      "id": 24,
+      "name": "Lake District National Park",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 3.69,
+      "wind_speed": 2.85,
+      "Humidity": 60,
+      "Temperature": 5.9,
+      "Maximum Temperature": 5.9,
+      "Minimum Temperature": 5.9,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-14 06:00:00?": {
+      "id": 25,
+      "name": "Lake District National Park",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 2.94,
+      "wind_speed": 5.93,
+      "Humidity": 63,
+      "Temperature": 6.59,
+      "Maximum Temperature": 6.59,
+      "Minimum Temperature": 6.59,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-14 09:00:00?": {
+      "id": 26,
+      "name": "Lake District National Park",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 0.87,
+      "wind_speed": 8.9,
+      "Humidity": 84,
+      "Temperature": 5.74,
+      "Maximum Temperature": 5.74,
+      "Minimum Temperature": 5.74,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-14 12:00:00?": {
+      "id": 27,
+      "name": "Lake District National Park",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 1.64,
+      "wind_speed": 10.78,
+      "Humidity": 88,
+      "Temperature": 6.69,
+      "Maximum Temperature": 6.69,
+      "Minimum Temperature": 6.69,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-14 15:00:00?": {
+      "id": 28,
+      "name": "Lake District National Park",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 3.96,
+      "wind_speed": 9.54,
+      "Humidity": 84,
+      "Temperature": 8.22,
+      "Maximum Temperature": 8.22,
+      "Minimum Temperature": 8.22,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-14 18:00:00?": {
+      "id": 29,
+      "name": "Lake District National Park",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 4.31,
+      "wind_speed": 7.59,
+      "Humidity": 83,
+      "Temperature": 8.09,
+      "Maximum Temperature": 8.09,
+      "Minimum Temperature": 8.09,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-14 21:00:00?": {
+      "id": 30,
+      "name": "Lake District National Park",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 4.18,
+      "wind_speed": 6.94,
+      "Humidity": 85,
+      "Temperature": 7.84,
+      "Maximum Temperature": 7.84,
+      "Minimum Temperature": 7.84,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-15 00:00:00?": {
+      "id": 31,
+      "name": "Lake District National Park",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 4.57,
+      "wind_speed": 5.67,
+      "Humidity": 85,
+      "Temperature": 7.8,
+      "Maximum Temperature": 7.8,
+      "Minimum Temperature": 7.8,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-15 03:00:00?": {
+      "id": 32,
+      "name": "Lake District National Park",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": 4.55,
+      "wind_speed": 5.85,
+      "Humidity": 85,
+      "Temperature": 7.84,
+      "Maximum Temperature": 7.84,
+      "Minimum Temperature": 7.84,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-15 06:00:00?": {
+      "id": 33,
+      "name": "Lake District National Park",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": 4.99,
+      "wind_speed": 5.66,
+      "Humidity": 77,
+      "Temperature": 8.13,
+      "Maximum Temperature": 8.13,
+      "Minimum Temperature": 8.13,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-15 09:00:00?": {
+      "id": 34,
+      "name": "Lake District National Park",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": 6.27,
+      "wind_speed": 3.93,
+      "Humidity": 71,
+      "Temperature": 8.56,
+      "Maximum Temperature": 8.56,
+      "Minimum Temperature": 8.56,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-15 12:00:00?": {
+      "id": 35,
+      "name": "Lake District National Park",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 5.98,
+      "wind_speed": 5.62,
+      "Humidity": 71,
+      "Temperature": 8.9,
+      "Maximum Temperature": 8.9,
+      "Minimum Temperature": 8.9,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-15 15:00:00?": {
+      "id": 36,
+      "name": "Lake District National Park",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 4.73,
+      "wind_speed": 6.6,
+      "Humidity": 80,
+      "Temperature": 8.18,
+      "Maximum Temperature": 8.18,
+      "Minimum Temperature": 8.18,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-15 18:00:00?": {
+      "id": 37,
+      "name": "Lake District National Park",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 4.03,
+      "wind_speed": 7.77,
+      "Humidity": 85,
+      "Temperature": 7.92,
+      "Maximum Temperature": 7.92,
+      "Minimum Temperature": 7.92,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-15 21:00:00?": {
+      "id": 38,
+      "name": "Lake District National Park",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 3.92,
+      "wind_speed": 8.04,
+      "Humidity": 87,
+      "Temperature": 7.89,
+      "Maximum Temperature": 7.89,
+      "Minimum Temperature": 7.89,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-16 00:00:00?": {
+      "id": 39,
+      "name": "Lake District National Park",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": 4.05,
+      "wind_speed": 7.68,
+      "Humidity": 89,
+      "Temperature": 7.91,
+      "Maximum Temperature": 7.91,
+      "Minimum Temperature": 7.91,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Lake District National Park at 2023-12-16 03:00:00?": {
+      "id": 40,
+      "name": "Lake District National Park",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": 3.96,
+      "wind_speed": 8.21,
+      "Humidity": 90,
+      "Temperature": 7.96,
+      "Maximum Temperature": 7.96,
+      "Minimum Temperature": 7.96,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 06:00:00?": {
+      "id": 41,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 10.0,
+      "wind_speed": 10.38,
+      "Humidity": 83,
+      "Temperature": 10.71,
+      "Maximum Temperature": 10.71,
+      "Minimum Temperature": 9.25,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 09:00:00?": {
+      "id": 42,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 9.37,
+      "wind_speed": 8.52,
+      "Humidity": 82,
+      "Temperature": 10.16,
+      "Maximum Temperature": 10.16,
+      "Minimum Temperature": 9.07,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 12:00:00?": {
+      "id": 43,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 9.31,
+      "wind_speed": 8.34,
+      "Humidity": 85,
+      "Temperature": 10.03,
+      "Maximum Temperature": 10.03,
+      "Minimum Temperature": 9.69,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 15:00:00?": {
+      "id": 44,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 5.37,
+      "wind_speed": 6.05,
+      "Humidity": 84,
+      "Temperature": 8.54,
+      "Maximum Temperature": 8.54,
+      "Minimum Temperature": 8.54,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 18:00:00?": {
+      "id": 45,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 4.28,
+      "wind_speed": 3.58,
+      "Humidity": 92,
+      "Temperature": 6.78,
+      "Maximum Temperature": 6.78,
+      "Minimum Temperature": 6.78,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 21:00:00?": {
+      "id": 46,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 4.39,
+      "wind_speed": 2.67,
+      "Humidity": 96,
+      "Temperature": 6.37,
+      "Maximum Temperature": 6.37,
+      "Minimum Temperature": 6.37,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 00:00:00?": {
+      "id": 47,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 4.75,
+      "wind_speed": 2.34,
+      "Humidity": 96,
+      "Temperature": 6.45,
+      "Maximum Temperature": 6.45,
+      "Minimum Temperature": 6.45,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 03:00:00?": {
+      "id": 48,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 4.6,
+      "wind_speed": 3.27,
+      "Humidity": 97,
+      "Temperature": 6.89,
+      "Maximum Temperature": 6.89,
+      "Minimum Temperature": 6.89,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 06:00:00?": {
+      "id": 49,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 5.94,
+      "wind_speed": 2.6,
+      "Humidity": 97,
+      "Temperature": 7.63,
+      "Maximum Temperature": 7.63,
+      "Minimum Temperature": 7.63,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 09:00:00?": {
+      "id": 50,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 6.24,
+      "wind_speed": 3.92,
+      "Humidity": 97,
+      "Temperature": 8.53,
+      "Maximum Temperature": 8.53,
+      "Minimum Temperature": 8.53,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 12:00:00?": {
+      "id": 51,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 10.05,
+      "wind_speed": 7.27,
+      "Humidity": 88,
+      "Temperature": 10.63,
+      "Maximum Temperature": 10.63,
+      "Minimum Temperature": 10.63,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 15:00:00?": {
+      "id": 52,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 6.92,
+      "wind_speed": 6.32,
+      "Humidity": 84,
+      "Temperature": 9.83,
+      "Maximum Temperature": 9.83,
+      "Minimum Temperature": 9.83,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 18:00:00?": {
+      "id": 53,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 5.16,
+      "wind_speed": 4.47,
+      "Humidity": 92,
+      "Temperature": 7.87,
+      "Maximum Temperature": 7.87,
+      "Minimum Temperature": 7.87,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 21:00:00?": {
+      "id": 54,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 4.81,
+      "wind_speed": 5.52,
+      "Humidity": 93,
+      "Temperature": 7.94,
+      "Maximum Temperature": 7.94,
+      "Minimum Temperature": 7.94,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 00:00:00?": {
+      "id": 55,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 4.48,
+      "wind_speed": 5.67,
+      "Humidity": 92,
+      "Temperature": 7.73,
+      "Maximum Temperature": 7.73,
+      "Minimum Temperature": 7.73,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 03:00:00?": {
+      "id": 56,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 4.09,
+      "wind_speed": 6.4,
+      "Humidity": 92,
+      "Temperature": 7.63,
+      "Maximum Temperature": 7.63,
+      "Minimum Temperature": 7.63,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 06:00:00?": {
+      "id": 57,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 4.83,
+      "wind_speed": 4.03,
+      "Humidity": 91,
+      "Temperature": 7.43,
+      "Maximum Temperature": 7.43,
+      "Minimum Temperature": 7.43,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 09:00:00?": {
+      "id": 58,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 4.93,
+      "wind_speed": 2.56,
+      "Humidity": 96,
+      "Temperature": 6.75,
+      "Maximum Temperature": 6.75,
+      "Minimum Temperature": 6.75,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 12:00:00?": {
+      "id": 59,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 7.31,
+      "wind_speed": 2.62,
+      "Humidity": 87,
+      "Temperature": 8.79,
+      "Maximum Temperature": 8.79,
+      "Minimum Temperature": 8.79,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 15:00:00?": {
+      "id": 60,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 5.28,
+      "wind_speed": 5.18,
+      "Humidity": 88,
+      "Temperature": 8.21,
+      "Maximum Temperature": 8.21,
+      "Minimum Temperature": 8.21,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 18:00:00?": {
+      "id": 61,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 4.26,
+      "wind_speed": 5.43,
+      "Humidity": 90,
+      "Temperature": 7.48,
+      "Maximum Temperature": 7.48,
+      "Minimum Temperature": 7.48,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 21:00:00?": {
+      "id": 62,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 3.26,
+      "wind_speed": 6.24,
+      "Humidity": 93,
+      "Temperature": 6.93,
+      "Maximum Temperature": 6.93,
+      "Minimum Temperature": 6.93,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 00:00:00?": {
+      "id": 63,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 2.93,
+      "wind_speed": 5.49,
+      "Humidity": 89,
+      "Temperature": 6.44,
+      "Maximum Temperature": 6.44,
+      "Minimum Temperature": 6.44,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 03:00:00?": {
+      "id": 64,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 2.17,
+      "wind_speed": 2.86,
+      "Humidity": 88,
+      "Temperature": 4.63,
+      "Maximum Temperature": 4.63,
+      "Minimum Temperature": 4.63,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 06:00:00?": {
+      "id": 65,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 3.36,
+      "wind_speed": 2.65,
+      "Humidity": 87,
+      "Temperature": 5.49,
+      "Maximum Temperature": 5.49,
+      "Minimum Temperature": 5.49,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 09:00:00?": {
+      "id": 66,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 1.98,
+      "wind_speed": 3.67,
+      "Humidity": 85,
+      "Temperature": 4.94,
+      "Maximum Temperature": 4.94,
+      "Minimum Temperature": 4.94,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 12:00:00?": {
+      "id": 67,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 1.97,
+      "wind_speed": 4.32,
+      "Humidity": 78,
+      "Temperature": 5.23,
+      "Maximum Temperature": 5.23,
+      "Minimum Temperature": 5.23,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 15:00:00?": {
+      "id": 68,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 2.13,
+      "wind_speed": 3.24,
+      "Humidity": 88,
+      "Temperature": 4.83,
+      "Maximum Temperature": 4.83,
+      "Minimum Temperature": 4.83,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 18:00:00?": {
+      "id": 69,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 3.71,
+      "wind_speed": 2.63,
+      "Humidity": 91,
+      "Temperature": 5.77,
+      "Maximum Temperature": 5.77,
+      "Minimum Temperature": 5.77,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 21:00:00?": {
+      "id": 70,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 3.34,
+      "wind_speed": 3.83,
+      "Humidity": 86,
+      "Temperature": 6.13,
+      "Maximum Temperature": 6.13,
+      "Minimum Temperature": 6.13,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 00:00:00?": {
+      "id": 71,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 3.7,
+      "wind_speed": 3.69,
+      "Humidity": 74,
+      "Temperature": 6.36,
+      "Maximum Temperature": 6.36,
+      "Minimum Temperature": 6.36,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 03:00:00?": {
+      "id": 72,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": 3.87,
+      "wind_speed": 2.46,
+      "Humidity": 75,
+      "Temperature": 5.79,
+      "Maximum Temperature": 5.79,
+      "Minimum Temperature": 5.79,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 06:00:00?": {
+      "id": 73,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": 2.31,
+      "wind_speed": 1.65,
+      "Humidity": 86,
+      "Temperature": 3.74,
+      "Maximum Temperature": 3.74,
+      "Minimum Temperature": 3.74,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 09:00:00?": {
+      "id": 74,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": 3.71,
+      "wind_speed": 1.28,
+      "Humidity": 90,
+      "Temperature": 3.71,
+      "Maximum Temperature": 3.71,
+      "Minimum Temperature": 3.71,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 12:00:00?": {
+      "id": 75,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 5.56,
+      "wind_speed": 1.46,
+      "Humidity": 79,
+      "Temperature": 6.37,
+      "Maximum Temperature": 6.37,
+      "Minimum Temperature": 6.37,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 15:00:00?": {
+      "id": 76,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 4.03,
+      "wind_speed": 1.56,
+      "Humidity": 86,
+      "Temperature": 5.14,
+      "Maximum Temperature": 5.14,
+      "Minimum Temperature": 5.14,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 18:00:00?": {
+      "id": 77,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 3.02,
+      "wind_speed": 0.88,
+      "Humidity": 90,
+      "Temperature": 3.02,
+      "Maximum Temperature": 3.02,
+      "Minimum Temperature": 3.02,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 21:00:00?": {
+      "id": 78,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 2.44,
+      "wind_speed": 0.99,
+      "Humidity": 90,
+      "Temperature": 2.44,
+      "Maximum Temperature": 2.44,
+      "Minimum Temperature": 2.44,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-16 00:00:00?": {
+      "id": 79,
+      "name": "Corfes Castle",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": 2.06,
+      "wind_speed": 0.73,
+      "Humidity": 90,
+      "Temperature": 2.06,
+      "Maximum Temperature": 2.06,
+      "Minimum Temperature": 2.06,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-16 03:00:00?": {
+      "id": 80,
+      "name": "Corfes Castle",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": 1.64,
+      "wind_speed": 1.31,
+      "Humidity": 90,
+      "Temperature": 1.64,
+      "Maximum Temperature": 1.64,
+      "Minimum Temperature": 1.64,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-11 06:00:00?": {
+      "id": 81,
+      "name": "The Cotswolds",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 9.31,
+      "wind_speed": 16.1,
+      "Humidity": 77,
+      "Temperature": 10.22,
+      "Maximum Temperature": 10.71,
+      "Minimum Temperature": 10.22,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-11 09:00:00?": {
+      "id": 82,
+      "name": "The Cotswolds",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 9.27,
+      "wind_speed": 10.37,
+      "Humidity": 79,
+      "Temperature": 10.14,
+      "Maximum Temperature": 10.14,
+      "Minimum Temperature": 9.97,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-11 12:00:00?": {
+      "id": 83,
+      "name": "The Cotswolds",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 9.35,
+      "wind_speed": 9.58,
+      "Humidity": 83,
+      "Temperature": 10.12,
+      "Maximum Temperature": 10.12,
+      "Minimum Temperature": 10.07,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-11 15:00:00?": {
+      "id": 84,
+      "name": "The Cotswolds",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 6.51,
+      "wind_speed": 8.27,
+      "Humidity": 85,
+      "Temperature": 9.93,
+      "Maximum Temperature": 9.93,
+      "Minimum Temperature": 9.93,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-11 18:00:00?": {
+      "id": 85,
+      "name": "The Cotswolds",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 6.22,
+      "wind_speed": 8.61,
+      "Humidity": 80,
+      "Temperature": 9.77,
+      "Maximum Temperature": 9.77,
+      "Minimum Temperature": 9.77,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-11 21:00:00?": {
+      "id": 86,
+      "name": "The Cotswolds",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 6.71,
+      "wind_speed": 5.69,
+      "Humidity": 81,
+      "Temperature": 9.5,
+      "Maximum Temperature": 9.5,
+      "Minimum Temperature": 9.5,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-12 00:00:00?": {
+      "id": 87,
+      "name": "The Cotswolds",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 7.58,
+      "wind_speed": 3.98,
+      "Humidity": 85,
+      "Temperature": 9.65,
+      "Maximum Temperature": 9.65,
+      "Minimum Temperature": 9.65,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-12 03:00:00?": {
+      "id": 88,
+      "name": "The Cotswolds",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 9.69,
+      "wind_speed": 4.59,
+      "Humidity": 90,
+      "Temperature": 10.26,
+      "Maximum Temperature": 10.26,
+      "Minimum Temperature": 10.26,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-12 06:00:00?": {
+      "id": 89,
+      "name": "The Cotswolds",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 9.56,
+      "wind_speed": 6.94,
+      "Humidity": 90,
+      "Temperature": 10.14,
+      "Maximum Temperature": 10.14,
+      "Minimum Temperature": 10.14,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-12 09:00:00?": {
+      "id": 90,
+      "name": "The Cotswolds",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 9.89,
+      "wind_speed": 7.36,
+      "Humidity": 97,
+      "Temperature": 10.27,
+      "Maximum Temperature": 10.27,
+      "Minimum Temperature": 10.27,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-12 12:00:00?": {
+      "id": 91,
+      "name": "The Cotswolds",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 10.67,
+      "wind_speed": 8.04,
+      "Humidity": 92,
+      "Temperature": 11.1,
+      "Maximum Temperature": 11.1,
+      "Minimum Temperature": 11.1,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-12 15:00:00?": {
+      "id": 92,
+      "name": "The Cotswolds",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 10.36,
+      "wind_speed": 7.73,
+      "Humidity": 89,
+      "Temperature": 10.89,
+      "Maximum Temperature": 10.89,
+      "Minimum Temperature": 10.89,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-12 18:00:00?": {
+      "id": 93,
+      "name": "The Cotswolds",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 10.05,
+      "wind_speed": 8.02,
+      "Humidity": 87,
+      "Temperature": 10.66,
+      "Maximum Temperature": 10.66,
+      "Minimum Temperature": 10.66,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-12 21:00:00?": {
+      "id": 94,
+      "name": "The Cotswolds",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 9.95,
+      "wind_speed": 7.42,
+      "Humidity": 84,
+      "Temperature": 10.64,
+      "Maximum Temperature": 10.64,
+      "Minimum Temperature": 10.64,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-13 00:00:00?": {
+      "id": 95,
+      "name": "The Cotswolds",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 9.45,
+      "wind_speed": 6.04,
+      "Humidity": 87,
+      "Temperature": 10.11,
+      "Maximum Temperature": 10.11,
+      "Minimum Temperature": 10.11,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-13 03:00:00?": {
+      "id": 96,
+      "name": "The Cotswolds",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 7.12,
+      "wind_speed": 4.07,
+      "Humidity": 85,
+      "Temperature": 9.31,
+      "Maximum Temperature": 9.31,
+      "Minimum Temperature": 9.31,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-13 06:00:00?": {
+      "id": 97,
+      "name": "The Cotswolds",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 6.87,
+      "wind_speed": 3.15,
+      "Humidity": 88,
+      "Temperature": 8.71,
+      "Maximum Temperature": 8.71,
+      "Minimum Temperature": 8.71,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-13 09:00:00?": {
+      "id": 98,
+      "name": "The Cotswolds",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 5.88,
+      "wind_speed": 5.65,
+      "Humidity": 91,
+      "Temperature": 8.83,
+      "Maximum Temperature": 8.83,
+      "Minimum Temperature": 8.83,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-13 12:00:00?": {
+      "id": 99,
+      "name": "The Cotswolds",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 5.29,
+      "wind_speed": 10.24,
+      "Humidity": 93,
+      "Temperature": 9.34,
+      "Maximum Temperature": 9.34,
+      "Minimum Temperature": 9.34,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-13 15:00:00?": {
+      "id": 100,
+      "name": "The Cotswolds",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 4.42,
+      "wind_speed": 13.59,
+      "Humidity": 88,
+      "Temperature": 9.17,
+      "Maximum Temperature": 9.17,
+      "Minimum Temperature": 9.17,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-13 18:00:00?": {
+      "id": 101,
+      "name": "The Cotswolds",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 3.82,
+      "wind_speed": 13.22,
+      "Humidity": 83,
+      "Temperature": 8.68,
+      "Maximum Temperature": 8.68,
+      "Minimum Temperature": 8.68,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-13 21:00:00?": {
+      "id": 102,
+      "name": "The Cotswolds",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 4.38,
+      "wind_speed": 11.11,
+      "Humidity": 76,
+      "Temperature": 8.8,
+      "Maximum Temperature": 8.8,
+      "Minimum Temperature": 8.8,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-14 00:00:00?": {
+      "id": 103,
+      "name": "The Cotswolds",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 4.25,
+      "wind_speed": 9.05,
+      "Humidity": 78,
+      "Temperature": 8.35,
+      "Maximum Temperature": 8.35,
+      "Minimum Temperature": 8.35,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-14 03:00:00?": {
+      "id": 104,
+      "name": "The Cotswolds",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 3.81,
+      "wind_speed": 7.06,
+      "Humidity": 80,
+      "Temperature": 7.58,
+      "Maximum Temperature": 7.58,
+      "Minimum Temperature": 7.58,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-14 06:00:00?": {
+      "id": 105,
+      "name": "The Cotswolds",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 2.52,
+      "wind_speed": 7.22,
+      "Humidity": 77,
+      "Temperature": 6.62,
+      "Maximum Temperature": 6.62,
+      "Minimum Temperature": 6.62,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-14 09:00:00?": {
+      "id": 106,
+      "name": "The Cotswolds",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 1.86,
+      "wind_speed": 7.81,
+      "Humidity": 76,
+      "Temperature": 6.25,
+      "Maximum Temperature": 6.25,
+      "Minimum Temperature": 6.25,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-14 12:00:00?": {
+      "id": 107,
+      "name": "The Cotswolds",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 1.65,
+      "wind_speed": 6.45,
+      "Humidity": 86,
+      "Temperature": 5.73,
+      "Maximum Temperature": 5.73,
+      "Minimum Temperature": 5.73,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-14 15:00:00?": {
+      "id": 108,
+      "name": "The Cotswolds",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 2.92,
+      "wind_speed": 7.72,
+      "Humidity": 83,
+      "Temperature": 7.05,
+      "Maximum Temperature": 7.05,
+      "Minimum Temperature": 7.05,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-14 18:00:00?": {
+      "id": 109,
+      "name": "The Cotswolds",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 3.45,
+      "wind_speed": 7.09,
+      "Humidity": 86,
+      "Temperature": 7.31,
+      "Maximum Temperature": 7.31,
+      "Minimum Temperature": 7.31,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-14 21:00:00?": {
+      "id": 110,
+      "name": "The Cotswolds",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 3.99,
+      "wind_speed": 5.67,
+      "Humidity": 84,
+      "Temperature": 7.34,
+      "Maximum Temperature": 7.34,
+      "Minimum Temperature": 7.34,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-15 00:00:00?": {
+      "id": 111,
+      "name": "The Cotswolds",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 3.99,
+      "wind_speed": 4.71,
+      "Humidity": 80,
+      "Temperature": 7.02,
+      "Maximum Temperature": 7.02,
+      "Minimum Temperature": 7.02,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-15 03:00:00?": {
+      "id": 112,
+      "name": "The Cotswolds",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": 3.59,
+      "wind_speed": 4.75,
+      "Humidity": 79,
+      "Temperature": 6.71,
+      "Maximum Temperature": 6.71,
+      "Minimum Temperature": 6.71,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-15 06:00:00?": {
+      "id": 113,
+      "name": "The Cotswolds",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": 3.22,
+      "wind_speed": 4.96,
+      "Humidity": 82,
+      "Temperature": 6.49,
+      "Maximum Temperature": 6.49,
+      "Minimum Temperature": 6.49,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-15 09:00:00?": {
+      "id": 114,
+      "name": "The Cotswolds",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": 3.36,
+      "wind_speed": 4.61,
+      "Humidity": 82,
+      "Temperature": 6.47,
+      "Maximum Temperature": 6.47,
+      "Minimum Temperature": 6.47,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-15 12:00:00?": {
+      "id": 115,
+      "name": "The Cotswolds",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 4.16,
+      "wind_speed": 3.73,
+      "Humidity": 78,
+      "Temperature": 6.75,
+      "Maximum Temperature": 6.75,
+      "Minimum Temperature": 6.75,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-15 15:00:00?": {
+      "id": 116,
+      "name": "The Cotswolds",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 4.79,
+      "wind_speed": 3.92,
+      "Humidity": 76,
+      "Temperature": 7.35,
+      "Maximum Temperature": 7.35,
+      "Minimum Temperature": 7.35,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-15 18:00:00?": {
+      "id": 117,
+      "name": "The Cotswolds",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 5.02,
+      "wind_speed": 3.63,
+      "Humidity": 77,
+      "Temperature": 7.41,
+      "Maximum Temperature": 7.41,
+      "Minimum Temperature": 7.41,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-15 21:00:00?": {
+      "id": 118,
+      "name": "The Cotswolds",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 4.49,
+      "wind_speed": 4.31,
+      "Humidity": 78,
+      "Temperature": 7.27,
+      "Maximum Temperature": 7.27,
+      "Minimum Temperature": 7.27,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-16 00:00:00?": {
+      "id": 119,
+      "name": "The Cotswolds",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": 4.44,
+      "wind_speed": 4.05,
+      "Humidity": 77,
+      "Temperature": 7.12,
+      "Maximum Temperature": 7.12,
+      "Minimum Temperature": 7.12,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in The Cotswolds at 2023-12-16 03:00:00?": {
+      "id": 120,
+      "name": "The Cotswolds",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": 4.49,
+      "wind_speed": 4.14,
+      "Humidity": 77,
+      "Temperature": 7.2,
+      "Maximum Temperature": 7.2,
+      "Minimum Temperature": 7.2,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-11 06:00:00?": {
+      "id": 121,
+      "name": "Cambridge",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 9.19,
+      "wind_speed": 7.86,
+      "Humidity": 78,
+      "Temperature": 10.09,
+      "Maximum Temperature": 10.09,
+      "Minimum Temperature": 9.18,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-11 09:00:00?": {
+      "id": 122,
+      "name": "Cambridge",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 6.77,
+      "wind_speed": 6.17,
+      "Humidity": 81,
+      "Temperature": 9.67,
+      "Maximum Temperature": 9.67,
+      "Minimum Temperature": 8.84,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-11 12:00:00?": {
+      "id": 123,
+      "name": "Cambridge",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 6.6,
+      "wind_speed": 5.8,
+      "Humidity": 83,
+      "Temperature": 9.44,
+      "Maximum Temperature": 9.44,
+      "Minimum Temperature": 9.11,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-11 15:00:00?": {
+      "id": 124,
+      "name": "Cambridge",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 6.22,
+      "wind_speed": 5.54,
+      "Humidity": 81,
+      "Temperature": 9.07,
+      "Maximum Temperature": 9.07,
+      "Minimum Temperature": 9.07,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-11 18:00:00?": {
+      "id": 125,
+      "name": "Cambridge",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 3.86,
+      "wind_speed": 3.33,
+      "Humidity": 90,
+      "Temperature": 6.31,
+      "Maximum Temperature": 6.31,
+      "Minimum Temperature": 6.31,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-11 21:00:00?": {
+      "id": 126,
+      "name": "Cambridge",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 3.69,
+      "wind_speed": 2.77,
+      "Humidity": 94,
+      "Temperature": 5.85,
+      "Maximum Temperature": 5.85,
+      "Minimum Temperature": 5.85,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-12 00:00:00?": {
+      "id": 127,
+      "name": "Cambridge",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 3.62,
+      "wind_speed": 2.78,
+      "Humidity": 94,
+      "Temperature": 5.79,
+      "Maximum Temperature": 5.79,
+      "Minimum Temperature": 5.79,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-12 03:00:00?": {
+      "id": 128,
+      "name": "Cambridge",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 3.3,
+      "wind_speed": 3.41,
+      "Humidity": 96,
+      "Temperature": 5.89,
+      "Maximum Temperature": 5.89,
+      "Minimum Temperature": 5.89,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-12 06:00:00?": {
+      "id": 129,
+      "name": "Cambridge",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 5.07,
+      "wind_speed": 4.78,
+      "Humidity": 98,
+      "Temperature": 7.91,
+      "Maximum Temperature": 7.91,
+      "Minimum Temperature": 7.91,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-12 09:00:00?": {
+      "id": 130,
+      "name": "Cambridge",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 7.16,
+      "wind_speed": 4.57,
+      "Humidity": 98,
+      "Temperature": 9.52,
+      "Maximum Temperature": 9.52,
+      "Minimum Temperature": 9.52,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-12 12:00:00?": {
+      "id": 131,
+      "name": "Cambridge",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 9.85,
+      "wind_speed": 3.97,
+      "Humidity": 90,
+      "Temperature": 10.4,
+      "Maximum Temperature": 10.4,
+      "Minimum Temperature": 10.4,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-12 15:00:00?": {
+      "id": 132,
+      "name": "Cambridge",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 8.06,
+      "wind_speed": 3.48,
+      "Humidity": 89,
+      "Temperature": 9.84,
+      "Maximum Temperature": 9.84,
+      "Minimum Temperature": 9.84,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-12 18:00:00?": {
+      "id": 133,
+      "name": "Cambridge",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 7.39,
+      "wind_speed": 2.58,
+      "Humidity": 91,
+      "Temperature": 8.84,
+      "Maximum Temperature": 8.84,
+      "Minimum Temperature": 8.84,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-12 21:00:00?": {
+      "id": 134,
+      "name": "Cambridge",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 6.06,
+      "wind_speed": 2.24,
+      "Humidity": 95,
+      "Temperature": 7.49,
+      "Maximum Temperature": 7.49,
+      "Minimum Temperature": 7.49,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-13 00:00:00?": {
+      "id": 135,
+      "name": "Cambridge",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 4.99,
+      "wind_speed": 1.97,
+      "Humidity": 95,
+      "Temperature": 6.37,
+      "Maximum Temperature": 6.37,
+      "Minimum Temperature": 6.37,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-13 03:00:00?": {
+      "id": 136,
+      "name": "Cambridge",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 3.56,
+      "wind_speed": 2.67,
+      "Humidity": 98,
+      "Temperature": 5.67,
+      "Maximum Temperature": 5.67,
+      "Minimum Temperature": 5.67,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-13 06:00:00?": {
+      "id": 137,
+      "name": "Cambridge",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 4.05,
+      "wind_speed": 4.62,
+      "Humidity": 97,
+      "Temperature": 7.03,
+      "Maximum Temperature": 7.03,
+      "Minimum Temperature": 7.03,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-13 09:00:00?": {
+      "id": 138,
+      "name": "Cambridge",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 2.86,
+      "wind_speed": 7.5,
+      "Humidity": 93,
+      "Temperature": 6.95,
+      "Maximum Temperature": 6.95,
+      "Minimum Temperature": 6.95,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-13 12:00:00?": {
+      "id": 139,
+      "name": "Cambridge",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 2.51,
+      "wind_speed": 8.55,
+      "Humidity": 90,
+      "Temperature": 6.92,
+      "Maximum Temperature": 6.92,
+      "Minimum Temperature": 6.92,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-13 15:00:00?": {
+      "id": 140,
+      "name": "Cambridge",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 2.27,
+      "wind_speed": 8.04,
+      "Humidity": 86,
+      "Temperature": 6.62,
+      "Maximum Temperature": 6.62,
+      "Minimum Temperature": 6.62,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-13 18:00:00?": {
+      "id": 141,
+      "name": "Cambridge",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 2.44,
+      "wind_speed": 5.98,
+      "Humidity": 85,
+      "Temperature": 6.21,
+      "Maximum Temperature": 6.21,
+      "Minimum Temperature": 6.21,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-13 21:00:00?": {
+      "id": 142,
+      "name": "Cambridge",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 1.93,
+      "wind_speed": 4.3,
+      "Humidity": 87,
+      "Temperature": 5.19,
+      "Maximum Temperature": 5.19,
+      "Minimum Temperature": 5.19,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-14 00:00:00?": {
+      "id": 143,
+      "name": "Cambridge",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 0.43,
+      "wind_speed": 2.63,
+      "Humidity": 92,
+      "Temperature": 3.01,
+      "Maximum Temperature": 3.01,
+      "Minimum Temperature": 3.01,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-14 03:00:00?": {
+      "id": 144,
+      "name": "Cambridge",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 0.22,
+      "wind_speed": 2.21,
+      "Humidity": 89,
+      "Temperature": 2.49,
+      "Maximum Temperature": 2.49,
+      "Minimum Temperature": 2.49,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-14 06:00:00?": {
+      "id": 145,
+      "name": "Cambridge",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 0.84,
+      "wind_speed": 2.71,
+      "Humidity": 90,
+      "Temperature": 3.42,
+      "Maximum Temperature": 3.42,
+      "Minimum Temperature": 3.42,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-14 09:00:00?": {
+      "id": 146,
+      "name": "Cambridge",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 0.89,
+      "wind_speed": 2.93,
+      "Humidity": 90,
+      "Temperature": 3.61,
+      "Maximum Temperature": 3.61,
+      "Minimum Temperature": 3.61,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-14 12:00:00?": {
+      "id": 147,
+      "name": "Cambridge",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 2.07,
+      "wind_speed": 4.0,
+      "Humidity": 85,
+      "Temperature": 5.17,
+      "Maximum Temperature": 5.17,
+      "Minimum Temperature": 5.17,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-14 15:00:00?": {
+      "id": 148,
+      "name": "Cambridge",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 3.4,
+      "wind_speed": 3.5,
+      "Humidity": 91,
+      "Temperature": 6.02,
+      "Maximum Temperature": 6.02,
+      "Minimum Temperature": 6.02,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-14 18:00:00?": {
+      "id": 149,
+      "name": "Cambridge",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 1.16,
+      "wind_speed": 3.21,
+      "Humidity": 91,
+      "Temperature": 4.01,
+      "Maximum Temperature": 4.01,
+      "Minimum Temperature": 4.01,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-14 21:00:00?": {
+      "id": 150,
+      "name": "Cambridge",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 0.38,
+      "wind_speed": 2.96,
+      "Humidity": 92,
+      "Temperature": 3.2,
+      "Maximum Temperature": 3.2,
+      "Minimum Temperature": 3.2,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-15 00:00:00?": {
+      "id": 151,
+      "name": "Cambridge",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 0.29,
+      "wind_speed": 2.33,
+      "Humidity": 92,
+      "Temperature": 2.66,
+      "Maximum Temperature": 2.66,
+      "Minimum Temperature": 2.66,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-15 03:00:00?": {
+      "id": 152,
+      "name": "Cambridge",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": -0.17,
+      "wind_speed": 2.34,
+      "Humidity": 92,
+      "Temperature": 2.28,
+      "Maximum Temperature": 2.28,
+      "Minimum Temperature": 2.28,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-15 06:00:00?": {
+      "id": 153,
+      "name": "Cambridge",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": -0.42,
+      "wind_speed": 2.26,
+      "Humidity": 93,
+      "Temperature": 1.99,
+      "Maximum Temperature": 1.99,
+      "Minimum Temperature": 1.99,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-15 09:00:00?": {
+      "id": 154,
+      "name": "Cambridge",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": -0.19,
+      "wind_speed": 2.45,
+      "Humidity": 93,
+      "Temperature": 2.35,
+      "Maximum Temperature": 2.35,
+      "Minimum Temperature": 2.35,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-15 12:00:00?": {
+      "id": 155,
+      "name": "Cambridge",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 3.24,
+      "wind_speed": 2.77,
+      "Humidity": 83,
+      "Temperature": 5.47,
+      "Maximum Temperature": 5.47,
+      "Minimum Temperature": 5.47,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-15 15:00:00?": {
+      "id": 156,
+      "name": "Cambridge",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 2.41,
+      "wind_speed": 2.59,
+      "Humidity": 88,
+      "Temperature": 4.65,
+      "Maximum Temperature": 4.65,
+      "Minimum Temperature": 4.65,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-15 18:00:00?": {
+      "id": 157,
+      "name": "Cambridge",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 0.34,
+      "wind_speed": 2.74,
+      "Humidity": 91,
+      "Temperature": 3.02,
+      "Maximum Temperature": 3.02,
+      "Minimum Temperature": 3.02,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-15 21:00:00?": {
+      "id": 158,
+      "name": "Cambridge",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 0.0,
+      "wind_speed": 2.74,
+      "Humidity": 92,
+      "Temperature": 2.73,
+      "Maximum Temperature": 2.73,
+      "Minimum Temperature": 2.73,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-16 00:00:00?": {
+      "id": 159,
+      "name": "Cambridge",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": -0.4,
+      "wind_speed": 3.1,
+      "Humidity": 90,
+      "Temperature": 2.65,
+      "Maximum Temperature": 2.65,
+      "Minimum Temperature": 2.65,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Cambridge at 2023-12-16 03:00:00?": {
+      "id": 160,
+      "name": "Cambridge",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": -0.35,
+      "wind_speed": 2.88,
+      "Humidity": 91,
+      "Temperature": 2.54,
+      "Maximum Temperature": 2.54,
+      "Minimum Temperature": 2.54,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-11 06:00:00?": {
+      "id": 161,
+      "name": "Bristol",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 10.36,
+      "wind_speed": 16.62,
+      "Humidity": 78,
+      "Temperature": 11.15,
+      "Maximum Temperature": 11.15,
+      "Minimum Temperature": 11.03,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-11 09:00:00?": {
+      "id": 162,
+      "name": "Bristol",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 10.24,
+      "wind_speed": 13.17,
+      "Humidity": 77,
+      "Temperature": 11.07,
+      "Maximum Temperature": 11.07,
+      "Minimum Temperature": 10.91,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-11 12:00:00?": {
+      "id": 163,
+      "name": "Bristol",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 10.0,
+      "wind_speed": 11.09,
+      "Humidity": 81,
+      "Temperature": 10.75,
+      "Maximum Temperature": 10.75,
+      "Minimum Temperature": 10.55,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-11 15:00:00?": {
+      "id": 164,
+      "name": "Bristol",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 9.71,
+      "wind_speed": 8.93,
+      "Humidity": 82,
+      "Temperature": 10.47,
+      "Maximum Temperature": 10.47,
+      "Minimum Temperature": 10.47,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-11 18:00:00?": {
+      "id": 165,
+      "name": "Bristol",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 9.53,
+      "wind_speed": 8.55,
+      "Humidity": 82,
+      "Temperature": 10.3,
+      "Maximum Temperature": 10.3,
+      "Minimum Temperature": 10.3,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-11 21:00:00?": {
+      "id": 166,
+      "name": "Bristol",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 9.32,
+      "wind_speed": 6.12,
+      "Humidity": 81,
+      "Temperature": 10.14,
+      "Maximum Temperature": 10.14,
+      "Minimum Temperature": 10.14,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-12 00:00:00?": {
+      "id": 167,
+      "name": "Bristol",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 7.77,
+      "wind_speed": 4.25,
+      "Humidity": 89,
+      "Temperature": 9.9,
+      "Maximum Temperature": 9.9,
+      "Minimum Temperature": 9.9,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-12 03:00:00?": {
+      "id": 168,
+      "name": "Bristol",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 6.28,
+      "wind_speed": 5.45,
+      "Humidity": 93,
+      "Temperature": 9.09,
+      "Maximum Temperature": 9.09,
+      "Minimum Temperature": 9.09,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-12 06:00:00?": {
+      "id": 169,
+      "name": "Bristol",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 5.9,
+      "wind_speed": 6.42,
+      "Humidity": 92,
+      "Temperature": 9.05,
+      "Maximum Temperature": 9.05,
+      "Minimum Temperature": 9.05,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-12 09:00:00?": {
+      "id": 170,
+      "name": "Bristol",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 6.41,
+      "wind_speed": 6.72,
+      "Humidity": 94,
+      "Temperature": 9.52,
+      "Maximum Temperature": 9.52,
+      "Minimum Temperature": 9.52,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-12 12:00:00?": {
+      "id": 171,
+      "name": "Bristol",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 9.94,
+      "wind_speed": 7.84,
+      "Humidity": 95,
+      "Temperature": 10.37,
+      "Maximum Temperature": 10.37,
+      "Minimum Temperature": 10.37,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-12 15:00:00?": {
+      "id": 172,
+      "name": "Bristol",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 10.56,
+      "wind_speed": 10.74,
+      "Humidity": 88,
+      "Temperature": 11.1,
+      "Maximum Temperature": 11.1,
+      "Minimum Temperature": 11.1,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-12 18:00:00?": {
+      "id": 173,
+      "name": "Bristol",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 10.22,
+      "wind_speed": 8.76,
+      "Humidity": 87,
+      "Temperature": 10.81,
+      "Maximum Temperature": 10.81,
+      "Minimum Temperature": 10.81,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-12 21:00:00?": {
+      "id": 174,
+      "name": "Bristol",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 9.85,
+      "wind_speed": 9.97,
+      "Humidity": 88,
+      "Temperature": 10.45,
+      "Maximum Temperature": 10.45,
+      "Minimum Temperature": 10.45,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-13 00:00:00?": {
+      "id": 175,
+      "name": "Bristol",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 9.59,
+      "wind_speed": 9.85,
+      "Humidity": 89,
+      "Temperature": 10.19,
+      "Maximum Temperature": 10.19,
+      "Minimum Temperature": 10.19,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-13 03:00:00?": {
+      "id": 176,
+      "name": "Bristol",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 6.47,
+      "wind_speed": 4.15,
+      "Humidity": 91,
+      "Temperature": 8.81,
+      "Maximum Temperature": 8.81,
+      "Minimum Temperature": 8.81,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-13 06:00:00?": {
+      "id": 177,
+      "name": "Bristol",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 8.83,
+      "wind_speed": 0.9,
+      "Humidity": 86,
+      "Temperature": 8.83,
+      "Maximum Temperature": 8.83,
+      "Minimum Temperature": 8.83,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-13 09:00:00?": {
+      "id": 178,
+      "name": "Bristol",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 7.95,
+      "wind_speed": 2.96,
+      "Humidity": 82,
+      "Temperature": 9.51,
+      "Maximum Temperature": 9.51,
+      "Minimum Temperature": 9.51,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-13 12:00:00?": {
+      "id": 179,
+      "name": "Bristol",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 8.03,
+      "wind_speed": 3.74,
+      "Humidity": 86,
+      "Temperature": 9.92,
+      "Maximum Temperature": 9.92,
+      "Minimum Temperature": 9.92,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-13 15:00:00?": {
+      "id": 180,
+      "name": "Bristol",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 9.35,
+      "wind_speed": 6.7,
+      "Humidity": 85,
+      "Temperature": 10.07,
+      "Maximum Temperature": 10.07,
+      "Minimum Temperature": 10.07,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-13 18:00:00?": {
+      "id": 181,
+      "name": "Bristol",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 4.55,
+      "wind_speed": 11.21,
+      "Humidity": 89,
+      "Temperature": 8.94,
+      "Maximum Temperature": 8.94,
+      "Minimum Temperature": 8.94,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-13 21:00:00?": {
+      "id": 182,
+      "name": "Bristol",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 3.84,
+      "wind_speed": 10.25,
+      "Humidity": 83,
+      "Temperature": 8.25,
+      "Maximum Temperature": 8.25,
+      "Minimum Temperature": 8.25,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-14 00:00:00?": {
+      "id": 183,
+      "name": "Bristol",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 3.85,
+      "wind_speed": 8.97,
+      "Humidity": 77,
+      "Temperature": 8.03,
+      "Maximum Temperature": 8.03,
+      "Minimum Temperature": 8.03,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-14 03:00:00?": {
+      "id": 184,
+      "name": "Bristol",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 4.66,
+      "wind_speed": 6.46,
+      "Humidity": 71,
+      "Temperature": 8.09,
+      "Maximum Temperature": 8.09,
+      "Minimum Temperature": 8.09,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-14 06:00:00?": {
+      "id": 185,
+      "name": "Bristol",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 6.75,
+      "wind_speed": 2.25,
+      "Humidity": 69,
+      "Temperature": 8.09,
+      "Maximum Temperature": 8.09,
+      "Minimum Temperature": 8.09,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-14 09:00:00?": {
+      "id": 186,
+      "name": "Bristol",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 3.76,
+      "wind_speed": 8.0,
+      "Humidity": 74,
+      "Temperature": 7.76,
+      "Maximum Temperature": 7.76,
+      "Minimum Temperature": 7.76,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-14 12:00:00?": {
+      "id": 187,
+      "name": "Bristol",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 3.07,
+      "wind_speed": 7.11,
+      "Humidity": 74,
+      "Temperature": 7.02,
+      "Maximum Temperature": 7.02,
+      "Minimum Temperature": 7.02,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-14 15:00:00?": {
+      "id": 188,
+      "name": "Bristol",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 3.67,
+      "wind_speed": 6.91,
+      "Humidity": 83,
+      "Temperature": 7.43,
+      "Maximum Temperature": 7.43,
+      "Minimum Temperature": 7.43,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-14 18:00:00?": {
+      "id": 189,
+      "name": "Bristol",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 4.8,
+      "wind_speed": 7.03,
+      "Humidity": 83,
+      "Temperature": 8.34,
+      "Maximum Temperature": 8.34,
+      "Minimum Temperature": 8.34,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-14 21:00:00?": {
+      "id": 190,
+      "name": "Bristol",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 4.83,
+      "wind_speed": 6.48,
+      "Humidity": 76,
+      "Temperature": 8.23,
+      "Maximum Temperature": 8.23,
+      "Minimum Temperature": 8.23,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-15 00:00:00?": {
+      "id": 191,
+      "name": "Bristol",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 5.73,
+      "wind_speed": 5.3,
+      "Humidity": 74,
+      "Temperature": 8.61,
+      "Maximum Temperature": 8.61,
+      "Minimum Temperature": 8.61,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-15 03:00:00?": {
+      "id": 192,
+      "name": "Bristol",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": 5.68,
+      "wind_speed": 4.34,
+      "Humidity": 76,
+      "Temperature": 8.24,
+      "Maximum Temperature": 8.24,
+      "Minimum Temperature": 8.24,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-15 06:00:00?": {
+      "id": 193,
+      "name": "Bristol",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": 5.36,
+      "wind_speed": 4.44,
+      "Humidity": 74,
+      "Temperature": 8.02,
+      "Maximum Temperature": 8.02,
+      "Minimum Temperature": 8.02,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-15 09:00:00?": {
+      "id": 194,
+      "name": "Bristol",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": 5.34,
+      "wind_speed": 4.21,
+      "Humidity": 76,
+      "Temperature": 7.92,
+      "Maximum Temperature": 7.92,
+      "Minimum Temperature": 7.92,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-15 12:00:00?": {
+      "id": 195,
+      "name": "Bristol",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 5.74,
+      "wind_speed": 3.54,
+      "Humidity": 76,
+      "Temperature": 7.96,
+      "Maximum Temperature": 7.96,
+      "Minimum Temperature": 7.96,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-15 15:00:00?": {
+      "id": 196,
+      "name": "Bristol",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 5.73,
+      "wind_speed": 3.6,
+      "Humidity": 76,
+      "Temperature": 7.98,
+      "Maximum Temperature": 7.98,
+      "Minimum Temperature": 7.98,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-15 18:00:00?": {
+      "id": 197,
+      "name": "Bristol",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 6.15,
+      "wind_speed": 2.98,
+      "Humidity": 74,
+      "Temperature": 8.02,
+      "Maximum Temperature": 8.02,
+      "Minimum Temperature": 8.02,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-15 21:00:00?": {
+      "id": 198,
+      "name": "Bristol",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 6.19,
+      "wind_speed": 3.08,
+      "Humidity": 74,
+      "Temperature": 8.11,
+      "Maximum Temperature": 8.11,
+      "Minimum Temperature": 8.11,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-16 00:00:00?": {
+      "id": 199,
+      "name": "Bristol",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": 6.4,
+      "wind_speed": 2.77,
+      "Humidity": 75,
+      "Temperature": 8.12,
+      "Maximum Temperature": 8.12,
+      "Minimum Temperature": 8.12,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Bristol at 2023-12-16 03:00:00?": {
+      "id": 200,
+      "name": "Bristol",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": 5.67,
+      "wind_speed": 3.57,
+      "Humidity": 76,
+      "Temperature": 7.92,
+      "Maximum Temperature": 7.92,
+      "Minimum Temperature": 7.92,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-11 06:00:00?": {
+      "id": 201,
+      "name": "Oxford",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 9.72,
+      "wind_speed": 14.31,
+      "Humidity": 77,
+      "Temperature": 10.59,
+      "Maximum Temperature": 10.59,
+      "Minimum Temperature": 10.31,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-11 09:00:00?": {
+      "id": 202,
+      "name": "Oxford",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 9.51,
+      "wind_speed": 9.22,
+      "Humidity": 79,
+      "Temperature": 10.36,
+      "Maximum Temperature": 10.36,
+      "Minimum Temperature": 9.9,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-11 12:00:00?": {
+      "id": 203,
+      "name": "Oxford",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 6.42,
+      "wind_speed": 9.0,
+      "Humidity": 82,
+      "Temperature": 9.99,
+      "Maximum Temperature": 9.99,
+      "Minimum Temperature": 9.69,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-11 15:00:00?": {
+      "id": 204,
+      "name": "Oxford",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 6.36,
+      "wind_speed": 8.21,
+      "Humidity": 83,
+      "Temperature": 9.8,
+      "Maximum Temperature": 9.8,
+      "Minimum Temperature": 9.8,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-11 18:00:00?": {
+      "id": 205,
+      "name": "Oxford",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 5.74,
+      "wind_speed": 6.98,
+      "Humidity": 80,
+      "Temperature": 9.06,
+      "Maximum Temperature": 9.06,
+      "Minimum Temperature": 9.06,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-11 21:00:00?": {
+      "id": 206,
+      "name": "Oxford",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 6.38,
+      "wind_speed": 4.65,
+      "Humidity": 88,
+      "Temperature": 8.92,
+      "Maximum Temperature": 8.92,
+      "Minimum Temperature": 8.92,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-12 00:00:00?": {
+      "id": 207,
+      "name": "Oxford",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 7.15,
+      "wind_speed": 3.24,
+      "Humidity": 88,
+      "Temperature": 8.98,
+      "Maximum Temperature": 8.98,
+      "Minimum Temperature": 8.98,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-12 03:00:00?": {
+      "id": 208,
+      "name": "Oxford",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 7.29,
+      "wind_speed": 4.64,
+      "Humidity": 94,
+      "Temperature": 9.65,
+      "Maximum Temperature": 9.65,
+      "Minimum Temperature": 9.65,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-12 06:00:00?": {
+      "id": 209,
+      "name": "Oxford",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 6.72,
+      "wind_speed": 6.44,
+      "Humidity": 95,
+      "Temperature": 9.7,
+      "Maximum Temperature": 9.7,
+      "Minimum Temperature": 9.7,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-12 09:00:00?": {
+      "id": 210,
+      "name": "Oxford",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 9.66,
+      "wind_speed": 7.29,
+      "Humidity": 98,
+      "Temperature": 10.04,
+      "Maximum Temperature": 10.04,
+      "Minimum Temperature": 10.04,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-12 12:00:00?": {
+      "id": 211,
+      "name": "Oxford",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 10.13,
+      "wind_speed": 7.75,
+      "Humidity": 90,
+      "Temperature": 10.66,
+      "Maximum Temperature": 10.66,
+      "Minimum Temperature": 10.66,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-12 15:00:00?": {
+      "id": 212,
+      "name": "Oxford",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 9.79,
+      "wind_speed": 7.04,
+      "Humidity": 90,
+      "Temperature": 10.35,
+      "Maximum Temperature": 10.35,
+      "Minimum Temperature": 10.35,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-12 18:00:00?": {
+      "id": 213,
+      "name": "Oxford",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 6.8,
+      "wind_speed": 7.0,
+      "Humidity": 89,
+      "Temperature": 9.89,
+      "Maximum Temperature": 9.89,
+      "Minimum Temperature": 9.89,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-12 21:00:00?": {
+      "id": 214,
+      "name": "Oxford",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 6.97,
+      "wind_speed": 6.28,
+      "Humidity": 87,
+      "Temperature": 9.86,
+      "Maximum Temperature": 9.86,
+      "Minimum Temperature": 9.86,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-13 00:00:00?": {
+      "id": 215,
+      "name": "Oxford",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 6.42,
+      "wind_speed": 5.55,
+      "Humidity": 90,
+      "Temperature": 9.23,
+      "Maximum Temperature": 9.23,
+      "Minimum Temperature": 9.23,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-13 03:00:00?": {
+      "id": 216,
+      "name": "Oxford",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 6.36,
+      "wind_speed": 2.92,
+      "Humidity": 90,
+      "Temperature": 8.17,
+      "Maximum Temperature": 8.17,
+      "Minimum Temperature": 8.17,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-13 06:00:00?": {
+      "id": 217,
+      "name": "Oxford",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 4.61,
+      "wind_speed": 4.52,
+      "Humidity": 93,
+      "Temperature": 7.45,
+      "Maximum Temperature": 7.45,
+      "Minimum Temperature": 7.45,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-13 09:00:00?": {
+      "id": 218,
+      "name": "Oxford",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 4.94,
+      "wind_speed": 5.66,
+      "Humidity": 94,
+      "Temperature": 8.09,
+      "Maximum Temperature": 8.09,
+      "Minimum Temperature": 8.09,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-13 12:00:00?": {
+      "id": 219,
+      "name": "Oxford",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 4.64,
+      "wind_speed": 8.62,
+      "Humidity": 94,
+      "Temperature": 8.56,
+      "Maximum Temperature": 8.56,
+      "Minimum Temperature": 8.56,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-13 15:00:00?": {
+      "id": 220,
+      "name": "Oxford",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 3.79,
+      "wind_speed": 10.97,
+      "Humidity": 91,
+      "Temperature": 8.33,
+      "Maximum Temperature": 8.33,
+      "Minimum Temperature": 8.33,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-13 18:00:00?": {
+      "id": 221,
+      "name": "Oxford",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 3.28,
+      "wind_speed": 12.23,
+      "Humidity": 85,
+      "Temperature": 8.14,
+      "Maximum Temperature": 8.14,
+      "Minimum Temperature": 8.14,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-13 21:00:00?": {
+      "id": 222,
+      "name": "Oxford",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 3.24,
+      "wind_speed": 10.36,
+      "Humidity": 79,
+      "Temperature": 7.82,
+      "Maximum Temperature": 7.82,
+      "Minimum Temperature": 7.82,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-14 00:00:00?": {
+      "id": 223,
+      "name": "Oxford",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 2.32,
+      "wind_speed": 7.81,
+      "Humidity": 82,
+      "Temperature": 6.61,
+      "Maximum Temperature": 6.61,
+      "Minimum Temperature": 6.61,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-14 03:00:00?": {
+      "id": 224,
+      "name": "Oxford",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 1.15,
+      "wind_speed": 7.06,
+      "Humidity": 83,
+      "Temperature": 5.51,
+      "Maximum Temperature": 5.51,
+      "Minimum Temperature": 5.51,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-14 06:00:00?": {
+      "id": 225,
+      "name": "Oxford",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 1.43,
+      "wind_speed": 5.77,
+      "Humidity": 78,
+      "Temperature": 5.35,
+      "Maximum Temperature": 5.35,
+      "Minimum Temperature": 5.35,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-14 09:00:00?": {
+      "id": 226,
+      "name": "Oxford",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 1.33,
+      "wind_speed": 6.15,
+      "Humidity": 83,
+      "Temperature": 5.39,
+      "Maximum Temperature": 5.39,
+      "Minimum Temperature": 5.39,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-14 12:00:00?": {
+      "id": 227,
+      "name": "Oxford",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 1.63,
+      "wind_speed": 5.48,
+      "Humidity": 87,
+      "Temperature": 5.41,
+      "Maximum Temperature": 5.41,
+      "Minimum Temperature": 5.41,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-14 15:00:00?": {
+      "id": 228,
+      "name": "Oxford",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 2.74,
+      "wind_speed": 7.37,
+      "Humidity": 85,
+      "Temperature": 6.83,
+      "Maximum Temperature": 6.83,
+      "Minimum Temperature": 6.83,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-14 18:00:00?": {
+      "id": 229,
+      "name": "Oxford",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 2.55,
+      "wind_speed": 6.4,
+      "Humidity": 88,
+      "Temperature": 6.42,
+      "Maximum Temperature": 6.42,
+      "Minimum Temperature": 6.42,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-14 21:00:00?": {
+      "id": 230,
+      "name": "Oxford",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 2.4,
+      "wind_speed": 5.72,
+      "Humidity": 85,
+      "Temperature": 6.1,
+      "Maximum Temperature": 6.1,
+      "Minimum Temperature": 6.1,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-15 00:00:00?": {
+      "id": 231,
+      "name": "Oxford",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 2.21,
+      "wind_speed": 4.44,
+      "Humidity": 84,
+      "Temperature": 5.48,
+      "Maximum Temperature": 5.48,
+      "Minimum Temperature": 5.48,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-15 03:00:00?": {
+      "id": 232,
+      "name": "Oxford",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": 1.91,
+      "wind_speed": 4.27,
+      "Humidity": 85,
+      "Temperature": 5.16,
+      "Maximum Temperature": 5.16,
+      "Minimum Temperature": 5.16,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-15 06:00:00?": {
+      "id": 233,
+      "name": "Oxford",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": 1.99,
+      "wind_speed": 3.9,
+      "Humidity": 86,
+      "Temperature": 5.06,
+      "Maximum Temperature": 5.06,
+      "Minimum Temperature": 5.06,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-15 09:00:00?": {
+      "id": 234,
+      "name": "Oxford",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": 2.1,
+      "wind_speed": 3.76,
+      "Humidity": 84,
+      "Temperature": 5.08,
+      "Maximum Temperature": 5.08,
+      "Minimum Temperature": 5.08,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-15 12:00:00?": {
+      "id": 235,
+      "name": "Oxford",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 3.62,
+      "wind_speed": 3.36,
+      "Humidity": 80,
+      "Temperature": 6.13,
+      "Maximum Temperature": 6.13,
+      "Minimum Temperature": 6.13,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-15 15:00:00?": {
+      "id": 236,
+      "name": "Oxford",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 4.52,
+      "wind_speed": 3.32,
+      "Humidity": 79,
+      "Temperature": 6.85,
+      "Maximum Temperature": 6.85,
+      "Minimum Temperature": 6.85,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-15 18:00:00?": {
+      "id": 237,
+      "name": "Oxford",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 3.89,
+      "wind_speed": 3.68,
+      "Humidity": 82,
+      "Temperature": 6.51,
+      "Maximum Temperature": 6.51,
+      "Minimum Temperature": 6.51,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-15 21:00:00?": {
+      "id": 238,
+      "name": "Oxford",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 3.17,
+      "wind_speed": 4.03,
+      "Humidity": 80,
+      "Temperature": 6.08,
+      "Maximum Temperature": 6.08,
+      "Minimum Temperature": 6.08,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-16 00:00:00?": {
+      "id": 239,
+      "name": "Oxford",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": 3.23,
+      "wind_speed": 3.74,
+      "Humidity": 80,
+      "Temperature": 6.0,
+      "Maximum Temperature": 6.0,
+      "Minimum Temperature": 6.0,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Oxford at 2023-12-16 03:00:00?": {
+      "id": 240,
+      "name": "Oxford",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": 3.25,
+      "wind_speed": 3.78,
+      "Humidity": 80,
+      "Temperature": 6.03,
+      "Maximum Temperature": 6.03,
+      "Minimum Temperature": 6.03,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-11 06:00:00?": {
+      "id": 241,
+      "name": "Norwich",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 9.24,
+      "wind_speed": 9.06,
+      "Humidity": 83,
+      "Temperature": 10.02,
+      "Maximum Temperature": 10.02,
+      "Minimum Temperature": 8.6,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-11 09:00:00?": {
+      "id": 242,
+      "name": "Norwich",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 6.09,
+      "wind_speed": 5.94,
+      "Humidity": 84,
+      "Temperature": 9.08,
+      "Maximum Temperature": 9.08,
+      "Minimum Temperature": 7.19,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-11 12:00:00?": {
+      "id": 243,
+      "name": "Norwich",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 6.56,
+      "wind_speed": 5.52,
+      "Humidity": 86,
+      "Temperature": 9.33,
+      "Maximum Temperature": 9.33,
+      "Minimum Temperature": 8.98,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-11 15:00:00?": {
+      "id": 244,
+      "name": "Norwich",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 6.39,
+      "wind_speed": 3.81,
+      "Humidity": 88,
+      "Temperature": 8.61,
+      "Maximum Temperature": 8.61,
+      "Minimum Temperature": 8.61,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-11 18:00:00?": {
+      "id": 245,
+      "name": "Norwich",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 5.55,
+      "wind_speed": 4.48,
+      "Humidity": 87,
+      "Temperature": 8.19,
+      "Maximum Temperature": 8.19,
+      "Minimum Temperature": 8.19,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-11 21:00:00?": {
+      "id": 246,
+      "name": "Norwich",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 3.13,
+      "wind_speed": 3.09,
+      "Humidity": 92,
+      "Temperature": 5.57,
+      "Maximum Temperature": 5.57,
+      "Minimum Temperature": 5.57,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-12 00:00:00?": {
+      "id": 247,
+      "name": "Norwich",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 3.16,
+      "wind_speed": 2.5,
+      "Humidity": 93,
+      "Temperature": 5.22,
+      "Maximum Temperature": 5.22,
+      "Minimum Temperature": 5.22,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-12 03:00:00?": {
+      "id": 248,
+      "name": "Norwich",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 3.06,
+      "wind_speed": 2.54,
+      "Humidity": 94,
+      "Temperature": 5.16,
+      "Maximum Temperature": 5.16,
+      "Minimum Temperature": 5.16,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-12 06:00:00?": {
+      "id": 249,
+      "name": "Norwich",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 3.08,
+      "wind_speed": 3.61,
+      "Humidity": 96,
+      "Temperature": 5.81,
+      "Maximum Temperature": 5.81,
+      "Minimum Temperature": 5.81,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-12 09:00:00?": {
+      "id": 250,
+      "name": "Norwich",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 5.35,
+      "wind_speed": 5.8,
+      "Humidity": 97,
+      "Temperature": 8.45,
+      "Maximum Temperature": 8.45,
+      "Minimum Temperature": 8.45,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-12 12:00:00?": {
+      "id": 251,
+      "name": "Norwich",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 7.24,
+      "wind_speed": 3.18,
+      "Humidity": 99,
+      "Temperature": 9.03,
+      "Maximum Temperature": 9.03,
+      "Minimum Temperature": 9.03,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-12 15:00:00?": {
+      "id": 252,
+      "name": "Norwich",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 7.41,
+      "wind_speed": 2.76,
+      "Humidity": 95,
+      "Temperature": 8.96,
+      "Maximum Temperature": 8.96,
+      "Minimum Temperature": 8.96,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-12 18:00:00?": {
+      "id": 253,
+      "name": "Norwich",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 6.37,
+      "wind_speed": 3.15,
+      "Humidity": 94,
+      "Temperature": 8.29,
+      "Maximum Temperature": 8.29,
+      "Minimum Temperature": 8.29,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-12 21:00:00?": {
+      "id": 254,
+      "name": "Norwich",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 6.01,
+      "wind_speed": 2.56,
+      "Humidity": 91,
+      "Temperature": 7.66,
+      "Maximum Temperature": 7.66,
+      "Minimum Temperature": 7.66,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-13 00:00:00?": {
+      "id": 255,
+      "name": "Norwich",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 6.16,
+      "wind_speed": 1.55,
+      "Humidity": 94,
+      "Temperature": 6.99,
+      "Maximum Temperature": 6.99,
+      "Minimum Temperature": 6.99,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-13 03:00:00?": {
+      "id": 256,
+      "name": "Norwich",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 4.9,
+      "wind_speed": 2.44,
+      "Humidity": 96,
+      "Temperature": 6.65,
+      "Maximum Temperature": 6.65,
+      "Minimum Temperature": 6.65,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-13 06:00:00?": {
+      "id": 257,
+      "name": "Norwich",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 5.01,
+      "wind_speed": 3.18,
+      "Humidity": 97,
+      "Temperature": 7.18,
+      "Maximum Temperature": 7.18,
+      "Minimum Temperature": 7.18,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-13 09:00:00?": {
+      "id": 258,
+      "name": "Norwich",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 4.41,
+      "wind_speed": 5.91,
+      "Humidity": 95,
+      "Temperature": 7.74,
+      "Maximum Temperature": 7.74,
+      "Minimum Temperature": 7.74,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-13 12:00:00?": {
+      "id": 259,
+      "name": "Norwich",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 2.91,
+      "wind_speed": 8.58,
+      "Humidity": 90,
+      "Temperature": 7.23,
+      "Maximum Temperature": 7.23,
+      "Minimum Temperature": 7.23,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-13 15:00:00?": {
+      "id": 260,
+      "name": "Norwich",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 2.2,
+      "wind_speed": 8.93,
+      "Humidity": 88,
+      "Temperature": 6.76,
+      "Maximum Temperature": 6.76,
+      "Minimum Temperature": 6.76,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-13 18:00:00?": {
+      "id": 261,
+      "name": "Norwich",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 2.33,
+      "wind_speed": 7.19,
+      "Humidity": 82,
+      "Temperature": 6.46,
+      "Maximum Temperature": 6.46,
+      "Minimum Temperature": 6.46,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-13 21:00:00?": {
+      "id": 262,
+      "name": "Norwich",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 2.06,
+      "wind_speed": 4.47,
+      "Humidity": 82,
+      "Temperature": 5.37,
+      "Maximum Temperature": 5.37,
+      "Minimum Temperature": 5.37,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-14 00:00:00?": {
+      "id": 263,
+      "name": "Norwich",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 2.2,
+      "wind_speed": 2.61,
+      "Humidity": 85,
+      "Temperature": 4.49,
+      "Maximum Temperature": 4.49,
+      "Minimum Temperature": 4.49,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-14 03:00:00?": {
+      "id": 264,
+      "name": "Norwich",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 0.45,
+      "wind_speed": 2.85,
+      "Humidity": 87,
+      "Temperature": 3.19,
+      "Maximum Temperature": 3.19,
+      "Minimum Temperature": 3.19,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-14 06:00:00?": {
+      "id": 265,
+      "name": "Norwich",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 0.55,
+      "wind_speed": 3.14,
+      "Humidity": 84,
+      "Temperature": 3.46,
+      "Maximum Temperature": 3.46,
+      "Minimum Temperature": 3.46,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-14 09:00:00?": {
+      "id": 266,
+      "name": "Norwich",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": -0.03,
+      "wind_speed": 3.88,
+      "Humidity": 91,
+      "Temperature": 3.4,
+      "Maximum Temperature": 3.4,
+      "Minimum Temperature": 3.4,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-14 12:00:00?": {
+      "id": 267,
+      "name": "Norwich",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 0.38,
+      "wind_speed": 4.55,
+      "Humidity": 90,
+      "Temperature": 4.05,
+      "Maximum Temperature": 4.05,
+      "Minimum Temperature": 4.05,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-14 15:00:00?": {
+      "id": 268,
+      "name": "Norwich",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 1.32,
+      "wind_speed": 4.71,
+      "Humidity": 90,
+      "Temperature": 4.87,
+      "Maximum Temperature": 4.87,
+      "Minimum Temperature": 4.87,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-14 18:00:00?": {
+      "id": 269,
+      "name": "Norwich",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 1.2,
+      "wind_speed": 3.19,
+      "Humidity": 93,
+      "Temperature": 4.03,
+      "Maximum Temperature": 4.03,
+      "Minimum Temperature": 4.03,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-14 21:00:00?": {
+      "id": 270,
+      "name": "Norwich",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 0.64,
+      "wind_speed": 2.98,
+      "Humidity": 91,
+      "Temperature": 3.43,
+      "Maximum Temperature": 3.43,
+      "Minimum Temperature": 3.43,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-15 00:00:00?": {
+      "id": 271,
+      "name": "Norwich",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 0.0,
+      "wind_speed": 2.86,
+      "Humidity": 91,
+      "Temperature": 2.82,
+      "Maximum Temperature": 2.82,
+      "Minimum Temperature": 2.82,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-15 03:00:00?": {
+      "id": 272,
+      "name": "Norwich",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": -0.45,
+      "wind_speed": 2.98,
+      "Humidity": 92,
+      "Temperature": 2.53,
+      "Maximum Temperature": 2.53,
+      "Minimum Temperature": 2.53,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-15 06:00:00?": {
+      "id": 273,
+      "name": "Norwich",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": -0.77,
+      "wind_speed": 3.07,
+      "Humidity": 92,
+      "Temperature": 2.32,
+      "Maximum Temperature": 2.32,
+      "Minimum Temperature": 2.32,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-15 09:00:00?": {
+      "id": 274,
+      "name": "Norwich",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": -0.54,
+      "wind_speed": 3.05,
+      "Humidity": 90,
+      "Temperature": 2.5,
+      "Maximum Temperature": 2.5,
+      "Minimum Temperature": 2.5,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-15 12:00:00?": {
+      "id": 275,
+      "name": "Norwich",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 2.73,
+      "wind_speed": 3.41,
+      "Humidity": 82,
+      "Temperature": 5.42,
+      "Maximum Temperature": 5.42,
+      "Minimum Temperature": 5.42,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-15 15:00:00?": {
+      "id": 276,
+      "name": "Norwich",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 1.89,
+      "wind_speed": 3.07,
+      "Humidity": 88,
+      "Temperature": 4.53,
+      "Maximum Temperature": 4.53,
+      "Minimum Temperature": 4.53,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-15 18:00:00?": {
+      "id": 277,
+      "name": "Norwich",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 0.1,
+      "wind_speed": 3.17,
+      "Humidity": 91,
+      "Temperature": 3.11,
+      "Maximum Temperature": 3.11,
+      "Minimum Temperature": 3.11,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-15 21:00:00?": {
+      "id": 278,
+      "name": "Norwich",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": -0.57,
+      "wind_speed": 3.21,
+      "Humidity": 92,
+      "Temperature": 2.58,
+      "Maximum Temperature": 2.58,
+      "Minimum Temperature": 2.58,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-16 00:00:00?": {
+      "id": 279,
+      "name": "Norwich",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": -0.51,
+      "wind_speed": 3.04,
+      "Humidity": 92,
+      "Temperature": 2.52,
+      "Maximum Temperature": 2.52,
+      "Minimum Temperature": 2.52,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Norwich at 2023-12-16 03:00:00?": {
+      "id": 280,
+      "name": "Norwich",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": -0.62,
+      "wind_speed": 3.11,
+      "Humidity": 91,
+      "Temperature": 2.47,
+      "Maximum Temperature": 2.47,
+      "Minimum Temperature": 2.47,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-11 06:00:00?": {
+      "id": 281,
+      "name": "Stonehenge",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 9.51,
+      "wind_speed": 13.58,
+      "Humidity": 78,
+      "Temperature": 10.38,
+      "Maximum Temperature": 11.13,
+      "Minimum Temperature": 10.38,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-11 09:00:00?": {
+      "id": 282,
+      "name": "Stonehenge",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 9.74,
+      "wind_speed": 10.84,
+      "Humidity": 77,
+      "Temperature": 10.61,
+      "Maximum Temperature": 11.06,
+      "Minimum Temperature": 10.61,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-11 12:00:00?": {
+      "id": 283,
+      "name": "Stonehenge",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 9.86,
+      "wind_speed": 10.74,
+      "Humidity": 82,
+      "Temperature": 10.6,
+      "Maximum Temperature": 10.71,
+      "Minimum Temperature": 10.6,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-11 15:00:00?": {
+      "id": 284,
+      "name": "Stonehenge",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 10.0,
+      "wind_speed": 9.24,
+      "Humidity": 80,
+      "Temperature": 10.78,
+      "Maximum Temperature": 10.78,
+      "Minimum Temperature": 10.78,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-11 18:00:00?": {
+      "id": 285,
+      "name": "Stonehenge",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 9.42,
+      "wind_speed": 7.31,
+      "Humidity": 83,
+      "Temperature": 10.18,
+      "Maximum Temperature": 10.18,
+      "Minimum Temperature": 10.18,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-11 21:00:00?": {
+      "id": 286,
+      "name": "Stonehenge",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 9.52,
+      "wind_speed": 5.27,
+      "Humidity": 84,
+      "Temperature": 10.25,
+      "Maximum Temperature": 10.25,
+      "Minimum Temperature": 10.25,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-12 00:00:00?": {
+      "id": 287,
+      "name": "Stonehenge",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 9.93,
+      "wind_speed": 4.54,
+      "Humidity": 92,
+      "Temperature": 10.43,
+      "Maximum Temperature": 10.43,
+      "Minimum Temperature": 10.43,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-12 03:00:00?": {
+      "id": 288,
+      "name": "Stonehenge",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 7.14,
+      "wind_speed": 5.99,
+      "Humidity": 88,
+      "Temperature": 9.92,
+      "Maximum Temperature": 9.92,
+      "Minimum Temperature": 9.92,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-12 06:00:00?": {
+      "id": 289,
+      "name": "Stonehenge",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 9.84,
+      "wind_speed": 5.49,
+      "Humidity": 92,
+      "Temperature": 10.35,
+      "Maximum Temperature": 10.35,
+      "Minimum Temperature": 10.35,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-12 09:00:00?": {
+      "id": 290,
+      "name": "Stonehenge",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 10.39,
+      "wind_speed": 7.07,
+      "Humidity": 93,
+      "Temperature": 10.82,
+      "Maximum Temperature": 10.82,
+      "Minimum Temperature": 10.82,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-12 12:00:00?": {
+      "id": 291,
+      "name": "Stonehenge",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 11.52,
+      "wind_speed": 10.16,
+      "Humidity": 85,
+      "Temperature": 12.04,
+      "Maximum Temperature": 12.04,
+      "Minimum Temperature": 12.04,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-12 15:00:00?": {
+      "id": 292,
+      "name": "Stonehenge",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 11.04,
+      "wind_speed": 9.99,
+      "Humidity": 87,
+      "Temperature": 11.56,
+      "Maximum Temperature": 11.56,
+      "Minimum Temperature": 11.56,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-12 18:00:00?": {
+      "id": 293,
+      "name": "Stonehenge",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 10.64,
+      "wind_speed": 9.4,
+      "Humidity": 86,
+      "Temperature": 11.22,
+      "Maximum Temperature": 11.22,
+      "Minimum Temperature": 11.22,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-12 21:00:00?": {
+      "id": 294,
+      "name": "Stonehenge",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 10.41,
+      "wind_speed": 9.97,
+      "Humidity": 83,
+      "Temperature": 11.08,
+      "Maximum Temperature": 11.08,
+      "Minimum Temperature": 11.08,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-13 00:00:00?": {
+      "id": 295,
+      "name": "Stonehenge",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 9.98,
+      "wind_speed": 9.77,
+      "Humidity": 87,
+      "Temperature": 10.59,
+      "Maximum Temperature": 10.59,
+      "Minimum Temperature": 10.59,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-13 03:00:00?": {
+      "id": 296,
+      "name": "Stonehenge",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 6.93,
+      "wind_speed": 4.98,
+      "Humidity": 89,
+      "Temperature": 9.47,
+      "Maximum Temperature": 9.47,
+      "Minimum Temperature": 9.47,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-13 06:00:00?": {
+      "id": 297,
+      "name": "Stonehenge",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 9.19,
+      "wind_speed": 1.86,
+      "Humidity": 84,
+      "Temperature": 9.9,
+      "Maximum Temperature": 9.9,
+      "Minimum Temperature": 9.9,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-13 09:00:00?": {
+      "id": 298,
+      "name": "Stonehenge",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 7.85,
+      "wind_speed": 3.24,
+      "Humidity": 86,
+      "Temperature": 9.56,
+      "Maximum Temperature": 9.56,
+      "Minimum Temperature": 9.56,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-13 12:00:00?": {
+      "id": 299,
+      "name": "Stonehenge",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 6.76,
+      "wind_speed": 6.65,
+      "Humidity": 88,
+      "Temperature": 9.78,
+      "Maximum Temperature": 9.78,
+      "Minimum Temperature": 9.78,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-13 15:00:00?": {
+      "id": 300,
+      "name": "Stonehenge",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 9.68,
+      "wind_speed": 11.31,
+      "Humidity": 87,
+      "Temperature": 10.32,
+      "Maximum Temperature": 10.32,
+      "Minimum Temperature": 10.32,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-13 18:00:00?": {
+      "id": 301,
+      "name": "Stonehenge",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 5.47,
+      "wind_speed": 11.72,
+      "Humidity": 88,
+      "Temperature": 9.7,
+      "Maximum Temperature": 9.7,
+      "Minimum Temperature": 9.7,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-13 21:00:00?": {
+      "id": 302,
+      "name": "Stonehenge",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 4.91,
+      "wind_speed": 10.97,
+      "Humidity": 81,
+      "Temperature": 9.17,
+      "Maximum Temperature": 9.17,
+      "Minimum Temperature": 9.17,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-14 00:00:00?": {
+      "id": 303,
+      "name": "Stonehenge",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 5.35,
+      "wind_speed": 8.92,
+      "Humidity": 73,
+      "Temperature": 9.16,
+      "Maximum Temperature": 9.16,
+      "Minimum Temperature": 9.16,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-14 03:00:00?": {
+      "id": 304,
+      "name": "Stonehenge",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 5.49,
+      "wind_speed": 6.83,
+      "Humidity": 75,
+      "Temperature": 8.83,
+      "Maximum Temperature": 8.83,
+      "Minimum Temperature": 8.83,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-14 06:00:00?": {
+      "id": 305,
+      "name": "Stonehenge",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 3.97,
+      "wind_speed": 7.77,
+      "Humidity": 75,
+      "Temperature": 7.87,
+      "Maximum Temperature": 7.87,
+      "Minimum Temperature": 7.87,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-14 09:00:00?": {
+      "id": 306,
+      "name": "Stonehenge",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 3.12,
+      "wind_speed": 7.87,
+      "Humidity": 72,
+      "Temperature": 7.24,
+      "Maximum Temperature": 7.24,
+      "Minimum Temperature": 7.24,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-14 12:00:00?": {
+      "id": 307,
+      "name": "Stonehenge",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 2.82,
+      "wind_speed": 6.47,
+      "Humidity": 78,
+      "Temperature": 6.65,
+      "Maximum Temperature": 6.65,
+      "Minimum Temperature": 6.65,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-14 15:00:00?": {
+      "id": 308,
+      "name": "Stonehenge",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 3.38,
+      "wind_speed": 6.77,
+      "Humidity": 80,
+      "Temperature": 7.17,
+      "Maximum Temperature": 7.17,
+      "Minimum Temperature": 7.17,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-14 18:00:00?": {
+      "id": 309,
+      "name": "Stonehenge",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 4.7,
+      "wind_speed": 7.19,
+      "Humidity": 85,
+      "Temperature": 8.3,
+      "Maximum Temperature": 8.3,
+      "Minimum Temperature": 8.3,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-14 21:00:00?": {
+      "id": 310,
+      "name": "Stonehenge",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 5.25,
+      "wind_speed": 6.49,
+      "Humidity": 79,
+      "Temperature": 8.56,
+      "Maximum Temperature": 8.56,
+      "Minimum Temperature": 8.56,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-15 00:00:00?": {
+      "id": 311,
+      "name": "Stonehenge",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 5.66,
+      "wind_speed": 4.7,
+      "Humidity": 76,
+      "Temperature": 8.36,
+      "Maximum Temperature": 8.36,
+      "Minimum Temperature": 8.36,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-15 03:00:00?": {
+      "id": 312,
+      "name": "Stonehenge",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": 5.47,
+      "wind_speed": 4.2,
+      "Humidity": 74,
+      "Temperature": 8.02,
+      "Maximum Temperature": 8.02,
+      "Minimum Temperature": 8.02,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-15 06:00:00?": {
+      "id": 313,
+      "name": "Stonehenge",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": 4.64,
+      "wind_speed": 4.93,
+      "Humidity": 77,
+      "Temperature": 7.62,
+      "Maximum Temperature": 7.62,
+      "Minimum Temperature": 7.62,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-15 09:00:00?": {
+      "id": 314,
+      "name": "Stonehenge",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": 4.86,
+      "wind_speed": 4.26,
+      "Humidity": 79,
+      "Temperature": 7.55,
+      "Maximum Temperature": 7.55,
+      "Minimum Temperature": 7.55,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-15 12:00:00?": {
+      "id": 315,
+      "name": "Stonehenge",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 5.33,
+      "wind_speed": 3.3,
+      "Humidity": 79,
+      "Temperature": 7.51,
+      "Maximum Temperature": 7.51,
+      "Minimum Temperature": 7.51,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-15 15:00:00?": {
+      "id": 316,
+      "name": "Stonehenge",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 5.45,
+      "wind_speed": 3.07,
+      "Humidity": 78,
+      "Temperature": 7.49,
+      "Maximum Temperature": 7.49,
+      "Minimum Temperature": 7.49,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-15 18:00:00?": {
+      "id": 317,
+      "name": "Stonehenge",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 5.7,
+      "wind_speed": 2.64,
+      "Humidity": 76,
+      "Temperature": 7.45,
+      "Maximum Temperature": 7.45,
+      "Minimum Temperature": 7.45,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-15 21:00:00?": {
+      "id": 318,
+      "name": "Stonehenge",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 5.46,
+      "wind_speed": 2.71,
+      "Humidity": 76,
+      "Temperature": 7.29,
+      "Maximum Temperature": 7.29,
+      "Minimum Temperature": 7.29,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-16 00:00:00?": {
+      "id": 319,
+      "name": "Stonehenge",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": 5.76,
+      "wind_speed": 2.24,
+      "Humidity": 74,
+      "Temperature": 7.24,
+      "Maximum Temperature": 7.24,
+      "Minimum Temperature": 7.24,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Stonehenge at 2023-12-16 03:00:00?": {
+      "id": 320,
+      "name": "Stonehenge",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": 5.29,
+      "wind_speed": 3.33,
+      "Humidity": 73,
+      "Temperature": 7.49,
+      "Maximum Temperature": 7.49,
+      "Minimum Temperature": 7.49,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-11 06:00:00?": {
+      "id": 321,
+      "name": "Watergate Bay",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 6.03,
+      "wind_speed": 9.68,
+      "Humidity": 80,
+      "Temperature": 9.81,
+      "Maximum Temperature": 9.81,
+      "Minimum Temperature": 9.69,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-11 09:00:00?": {
+      "id": 322,
+      "name": "Watergate Bay",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 5.96,
+      "wind_speed": 9.55,
+      "Humidity": 80,
+      "Temperature": 9.74,
+      "Maximum Temperature": 9.74,
+      "Minimum Temperature": 9.59,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-11 12:00:00?": {
+      "id": 323,
+      "name": "Watergate Bay",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 5.95,
+      "wind_speed": 7.42,
+      "Humidity": 80,
+      "Temperature": 9.32,
+      "Maximum Temperature": 9.32,
+      "Minimum Temperature": 9.07,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-11 15:00:00?": {
+      "id": 324,
+      "name": "Watergate Bay",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 5.81,
+      "wind_speed": 6.42,
+      "Humidity": 83,
+      "Temperature": 8.98,
+      "Maximum Temperature": 8.98,
+      "Minimum Temperature": 8.98,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-11 18:00:00?": {
+      "id": 325,
+      "name": "Watergate Bay",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 3.99,
+      "wind_speed": 5.22,
+      "Humidity": 93,
+      "Temperature": 7.2,
+      "Maximum Temperature": 7.2,
+      "Minimum Temperature": 7.2,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-11 21:00:00?": {
+      "id": 326,
+      "name": "Watergate Bay",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 3.16,
+      "wind_speed": 3.64,
+      "Humidity": 96,
+      "Temperature": 5.89,
+      "Maximum Temperature": 5.89,
+      "Minimum Temperature": 5.89,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-12 00:00:00?": {
+      "id": 327,
+      "name": "Watergate Bay",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 3.56,
+      "wind_speed": 2.63,
+      "Humidity": 96,
+      "Temperature": 5.65,
+      "Maximum Temperature": 5.65,
+      "Minimum Temperature": 5.65,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-12 03:00:00?": {
+      "id": 328,
+      "name": "Watergate Bay",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 3.32,
+      "wind_speed": 3.12,
+      "Humidity": 95,
+      "Temperature": 5.75,
+      "Maximum Temperature": 5.75,
+      "Minimum Temperature": 5.75,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-12 06:00:00?": {
+      "id": 329,
+      "name": "Watergate Bay",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 3.94,
+      "wind_speed": 3.28,
+      "Humidity": 95,
+      "Temperature": 6.35,
+      "Maximum Temperature": 6.35,
+      "Minimum Temperature": 6.35,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-12 09:00:00?": {
+      "id": 330,
+      "name": "Watergate Bay",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 5.54,
+      "wind_speed": 2.95,
+      "Humidity": 97,
+      "Temperature": 7.5,
+      "Maximum Temperature": 7.5,
+      "Minimum Temperature": 7.5,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-12 12:00:00?": {
+      "id": 331,
+      "name": "Watergate Bay",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 6.43,
+      "wind_speed": 4.65,
+      "Humidity": 97,
+      "Temperature": 8.96,
+      "Maximum Temperature": 8.96,
+      "Minimum Temperature": 8.96,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-12 15:00:00?": {
+      "id": 332,
+      "name": "Watergate Bay",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 7.46,
+      "wind_speed": 5.01,
+      "Humidity": 92,
+      "Temperature": 9.9,
+      "Maximum Temperature": 9.9,
+      "Minimum Temperature": 9.9,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-12 18:00:00?": {
+      "id": 333,
+      "name": "Watergate Bay",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 6.96,
+      "wind_speed": 3.89,
+      "Humidity": 90,
+      "Temperature": 9.11,
+      "Maximum Temperature": 9.11,
+      "Minimum Temperature": 9.11,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-12 21:00:00?": {
+      "id": 334,
+      "name": "Watergate Bay",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 5.02,
+      "wind_speed": 3.86,
+      "Humidity": 92,
+      "Temperature": 7.51,
+      "Maximum Temperature": 7.51,
+      "Minimum Temperature": 7.51,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-13 00:00:00?": {
+      "id": 335,
+      "name": "Watergate Bay",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 5.44,
+      "wind_speed": 5.47,
+      "Humidity": 88,
+      "Temperature": 8.43,
+      "Maximum Temperature": 8.43,
+      "Minimum Temperature": 8.43,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-13 03:00:00?": {
+      "id": 336,
+      "name": "Watergate Bay",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 4.88,
+      "wind_speed": 4.87,
+      "Humidity": 89,
+      "Temperature": 7.79,
+      "Maximum Temperature": 7.79,
+      "Minimum Temperature": 7.79,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-13 06:00:00?": {
+      "id": 337,
+      "name": "Watergate Bay",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 3.91,
+      "wind_speed": 3.23,
+      "Humidity": 93,
+      "Temperature": 6.3,
+      "Maximum Temperature": 6.3,
+      "Minimum Temperature": 6.3,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-13 09:00:00?": {
+      "id": 338,
+      "name": "Watergate Bay",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 5.4,
+      "wind_speed": 3.04,
+      "Humidity": 89,
+      "Temperature": 7.43,
+      "Maximum Temperature": 7.43,
+      "Minimum Temperature": 7.43,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-13 12:00:00?": {
+      "id": 339,
+      "name": "Watergate Bay",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 6.99,
+      "wind_speed": 2.2,
+      "Humidity": 82,
+      "Temperature": 8.26,
+      "Maximum Temperature": 8.26,
+      "Minimum Temperature": 8.26,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-13 15:00:00?": {
+      "id": 340,
+      "name": "Watergate Bay",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 6.85,
+      "wind_speed": 1.46,
+      "Humidity": 84,
+      "Temperature": 7.5,
+      "Maximum Temperature": 7.5,
+      "Minimum Temperature": 7.5,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-13 18:00:00?": {
+      "id": 341,
+      "name": "Watergate Bay",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 7.13,
+      "wind_speed": 1.11,
+      "Humidity": 88,
+      "Temperature": 7.13,
+      "Maximum Temperature": 7.13,
+      "Minimum Temperature": 7.13,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-13 21:00:00?": {
+      "id": 342,
+      "name": "Watergate Bay",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 5.77,
+      "wind_speed": 1.62,
+      "Humidity": 91,
+      "Temperature": 6.72,
+      "Maximum Temperature": 6.72,
+      "Minimum Temperature": 6.72,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-14 00:00:00?": {
+      "id": 343,
+      "name": "Watergate Bay",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 3.54,
+      "wind_speed": 2.44,
+      "Humidity": 98,
+      "Temperature": 5.5,
+      "Maximum Temperature": 5.5,
+      "Minimum Temperature": 5.5,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-14 03:00:00?": {
+      "id": 344,
+      "name": "Watergate Bay",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 2.78,
+      "wind_speed": 2.97,
+      "Humidity": 97,
+      "Temperature": 5.21,
+      "Maximum Temperature": 5.21,
+      "Minimum Temperature": 5.21,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-14 06:00:00?": {
+      "id": 345,
+      "name": "Watergate Bay",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 1.9,
+      "wind_speed": 3.05,
+      "Humidity": 97,
+      "Temperature": 4.53,
+      "Maximum Temperature": 4.53,
+      "Minimum Temperature": 4.53,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-14 09:00:00?": {
+      "id": 346,
+      "name": "Watergate Bay",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 1.27,
+      "wind_speed": 3.45,
+      "Humidity": 94,
+      "Temperature": 4.24,
+      "Maximum Temperature": 4.24,
+      "Minimum Temperature": 4.24,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-14 12:00:00?": {
+      "id": 347,
+      "name": "Watergate Bay",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 2.48,
+      "wind_speed": 2.54,
+      "Humidity": 84,
+      "Temperature": 4.67,
+      "Maximum Temperature": 4.67,
+      "Minimum Temperature": 4.67,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-14 15:00:00?": {
+      "id": 348,
+      "name": "Watergate Bay",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 2.41,
+      "wind_speed": 2.64,
+      "Humidity": 85,
+      "Temperature": 4.69,
+      "Maximum Temperature": 4.69,
+      "Minimum Temperature": 4.69,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-14 18:00:00?": {
+      "id": 349,
+      "name": "Watergate Bay",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 1.58,
+      "wind_speed": 3.44,
+      "Humidity": 87,
+      "Temperature": 4.49,
+      "Maximum Temperature": 4.49,
+      "Minimum Temperature": 4.49,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-14 21:00:00?": {
+      "id": 350,
+      "name": "Watergate Bay",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 3.28,
+      "wind_speed": 1.55,
+      "Humidity": 90,
+      "Temperature": 4.47,
+      "Maximum Temperature": 4.47,
+      "Minimum Temperature": 4.47,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-15 00:00:00?": {
+      "id": 351,
+      "name": "Watergate Bay",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 3.33,
+      "wind_speed": 1.57,
+      "Humidity": 94,
+      "Temperature": 4.54,
+      "Maximum Temperature": 4.54,
+      "Minimum Temperature": 4.54,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-15 03:00:00?": {
+      "id": 352,
+      "name": "Watergate Bay",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": 3.76,
+      "wind_speed": 1.64,
+      "Humidity": 88,
+      "Temperature": 4.99,
+      "Maximum Temperature": 4.99,
+      "Minimum Temperature": 4.99,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-15 06:00:00?": {
+      "id": 353,
+      "name": "Watergate Bay",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": 4.34,
+      "wind_speed": 1.65,
+      "Humidity": 76,
+      "Temperature": 5.51,
+      "Maximum Temperature": 5.51,
+      "Minimum Temperature": 5.51,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-15 09:00:00?": {
+      "id": 354,
+      "name": "Watergate Bay",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": 4.12,
+      "wind_speed": 1.94,
+      "Humidity": 82,
+      "Temperature": 5.59,
+      "Maximum Temperature": 5.59,
+      "Minimum Temperature": 5.59,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-15 12:00:00?": {
+      "id": 355,
+      "name": "Watergate Bay",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 5.52,
+      "wind_speed": 2.34,
+      "Humidity": 81,
+      "Temperature": 7.1,
+      "Maximum Temperature": 7.1,
+      "Minimum Temperature": 7.1,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-15 15:00:00?": {
+      "id": 356,
+      "name": "Watergate Bay",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 3.9,
+      "wind_speed": 2.13,
+      "Humidity": 88,
+      "Temperature": 5.57,
+      "Maximum Temperature": 5.57,
+      "Minimum Temperature": 5.57,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-15 18:00:00?": {
+      "id": 357,
+      "name": "Watergate Bay",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 2.29,
+      "wind_speed": 1.47,
+      "Humidity": 94,
+      "Temperature": 3.51,
+      "Maximum Temperature": 3.51,
+      "Minimum Temperature": 3.51,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-15 21:00:00?": {
+      "id": 358,
+      "name": "Watergate Bay",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 2.73,
+      "wind_speed": 0.46,
+      "Humidity": 95,
+      "Temperature": 2.73,
+      "Maximum Temperature": 2.73,
+      "Minimum Temperature": 2.73,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-16 00:00:00?": {
+      "id": 359,
+      "name": "Watergate Bay",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": 2.14,
+      "wind_speed": 0.32,
+      "Humidity": 95,
+      "Temperature": 2.14,
+      "Maximum Temperature": 2.14,
+      "Minimum Temperature": 2.14,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Watergate Bay at 2023-12-16 03:00:00?": {
+      "id": 360,
+      "name": "Watergate Bay",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": 0.13,
+      "wind_speed": 1.73,
+      "Humidity": 96,
+      "Temperature": 1.93,
+      "Maximum Temperature": 1.93,
+      "Minimum Temperature": 1.93,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 06:00:00?": {
+      "id": 361,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 10.0,
+      "wind_speed": 10.38,
+      "Humidity": 83,
+      "Temperature": 10.71,
+      "Maximum Temperature": 10.71,
+      "Minimum Temperature": 9.25,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 09:00:00?": {
+      "id": 362,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 9.37,
+      "wind_speed": 8.52,
+      "Humidity": 82,
+      "Temperature": 10.16,
+      "Maximum Temperature": 10.16,
+      "Minimum Temperature": 9.07,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 12:00:00?": {
+      "id": 363,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 9.31,
+      "wind_speed": 8.34,
+      "Humidity": 85,
+      "Temperature": 10.03,
+      "Maximum Temperature": 10.03,
+      "Minimum Temperature": 9.69,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 15:00:00?": {
+      "id": 364,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 5.37,
+      "wind_speed": 6.05,
+      "Humidity": 84,
+      "Temperature": 8.54,
+      "Maximum Temperature": 8.54,
+      "Minimum Temperature": 8.54,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 18:00:00?": {
+      "id": 365,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 4.28,
+      "wind_speed": 3.58,
+      "Humidity": 92,
+      "Temperature": 6.78,
+      "Maximum Temperature": 6.78,
+      "Minimum Temperature": 6.78,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-11 21:00:00?": {
+      "id": 366,
+      "name": "Corfes Castle",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 4.39,
+      "wind_speed": 2.67,
+      "Humidity": 96,
+      "Temperature": 6.37,
+      "Maximum Temperature": 6.37,
+      "Minimum Temperature": 6.37,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 00:00:00?": {
+      "id": 367,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 4.75,
+      "wind_speed": 2.34,
+      "Humidity": 96,
+      "Temperature": 6.45,
+      "Maximum Temperature": 6.45,
+      "Minimum Temperature": 6.45,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 03:00:00?": {
+      "id": 368,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 4.6,
+      "wind_speed": 3.27,
+      "Humidity": 97,
+      "Temperature": 6.89,
+      "Maximum Temperature": 6.89,
+      "Minimum Temperature": 6.89,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 06:00:00?": {
+      "id": 369,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 5.94,
+      "wind_speed": 2.6,
+      "Humidity": 97,
+      "Temperature": 7.63,
+      "Maximum Temperature": 7.63,
+      "Minimum Temperature": 7.63,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 09:00:00?": {
+      "id": 370,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 6.24,
+      "wind_speed": 3.92,
+      "Humidity": 97,
+      "Temperature": 8.53,
+      "Maximum Temperature": 8.53,
+      "Minimum Temperature": 8.53,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 12:00:00?": {
+      "id": 371,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 10.05,
+      "wind_speed": 7.27,
+      "Humidity": 88,
+      "Temperature": 10.63,
+      "Maximum Temperature": 10.63,
+      "Minimum Temperature": 10.63,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 15:00:00?": {
+      "id": 372,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 6.92,
+      "wind_speed": 6.32,
+      "Humidity": 84,
+      "Temperature": 9.83,
+      "Maximum Temperature": 9.83,
+      "Minimum Temperature": 9.83,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 18:00:00?": {
+      "id": 373,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 5.16,
+      "wind_speed": 4.47,
+      "Humidity": 92,
+      "Temperature": 7.87,
+      "Maximum Temperature": 7.87,
+      "Minimum Temperature": 7.87,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-12 21:00:00?": {
+      "id": 374,
+      "name": "Corfes Castle",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 4.81,
+      "wind_speed": 5.52,
+      "Humidity": 93,
+      "Temperature": 7.94,
+      "Maximum Temperature": 7.94,
+      "Minimum Temperature": 7.94,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 00:00:00?": {
+      "id": 375,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 4.48,
+      "wind_speed": 5.67,
+      "Humidity": 92,
+      "Temperature": 7.73,
+      "Maximum Temperature": 7.73,
+      "Minimum Temperature": 7.73,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 03:00:00?": {
+      "id": 376,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 4.09,
+      "wind_speed": 6.4,
+      "Humidity": 92,
+      "Temperature": 7.63,
+      "Maximum Temperature": 7.63,
+      "Minimum Temperature": 7.63,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 06:00:00?": {
+      "id": 377,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 4.83,
+      "wind_speed": 4.03,
+      "Humidity": 91,
+      "Temperature": 7.43,
+      "Maximum Temperature": 7.43,
+      "Minimum Temperature": 7.43,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 09:00:00?": {
+      "id": 378,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 4.93,
+      "wind_speed": 2.56,
+      "Humidity": 96,
+      "Temperature": 6.75,
+      "Maximum Temperature": 6.75,
+      "Minimum Temperature": 6.75,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 12:00:00?": {
+      "id": 379,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 7.31,
+      "wind_speed": 2.62,
+      "Humidity": 87,
+      "Temperature": 8.79,
+      "Maximum Temperature": 8.79,
+      "Minimum Temperature": 8.79,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 15:00:00?": {
+      "id": 380,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 5.28,
+      "wind_speed": 5.18,
+      "Humidity": 88,
+      "Temperature": 8.21,
+      "Maximum Temperature": 8.21,
+      "Minimum Temperature": 8.21,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 18:00:00?": {
+      "id": 381,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 4.26,
+      "wind_speed": 5.43,
+      "Humidity": 90,
+      "Temperature": 7.48,
+      "Maximum Temperature": 7.48,
+      "Minimum Temperature": 7.48,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-13 21:00:00?": {
+      "id": 382,
+      "name": "Corfes Castle",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 3.26,
+      "wind_speed": 6.24,
+      "Humidity": 93,
+      "Temperature": 6.93,
+      "Maximum Temperature": 6.93,
+      "Minimum Temperature": 6.93,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 00:00:00?": {
+      "id": 383,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 2.93,
+      "wind_speed": 5.49,
+      "Humidity": 89,
+      "Temperature": 6.44,
+      "Maximum Temperature": 6.44,
+      "Minimum Temperature": 6.44,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 03:00:00?": {
+      "id": 384,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 2.17,
+      "wind_speed": 2.86,
+      "Humidity": 88,
+      "Temperature": 4.63,
+      "Maximum Temperature": 4.63,
+      "Minimum Temperature": 4.63,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 06:00:00?": {
+      "id": 385,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 3.36,
+      "wind_speed": 2.65,
+      "Humidity": 87,
+      "Temperature": 5.49,
+      "Maximum Temperature": 5.49,
+      "Minimum Temperature": 5.49,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 09:00:00?": {
+      "id": 386,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 1.98,
+      "wind_speed": 3.67,
+      "Humidity": 85,
+      "Temperature": 4.94,
+      "Maximum Temperature": 4.94,
+      "Minimum Temperature": 4.94,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 12:00:00?": {
+      "id": 387,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 1.97,
+      "wind_speed": 4.32,
+      "Humidity": 78,
+      "Temperature": 5.23,
+      "Maximum Temperature": 5.23,
+      "Minimum Temperature": 5.23,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 15:00:00?": {
+      "id": 388,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 2.13,
+      "wind_speed": 3.24,
+      "Humidity": 88,
+      "Temperature": 4.83,
+      "Maximum Temperature": 4.83,
+      "Minimum Temperature": 4.83,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 18:00:00?": {
+      "id": 389,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 3.71,
+      "wind_speed": 2.63,
+      "Humidity": 91,
+      "Temperature": 5.77,
+      "Maximum Temperature": 5.77,
+      "Minimum Temperature": 5.77,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-14 21:00:00?": {
+      "id": 390,
+      "name": "Corfes Castle",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 3.34,
+      "wind_speed": 3.83,
+      "Humidity": 86,
+      "Temperature": 6.13,
+      "Maximum Temperature": 6.13,
+      "Minimum Temperature": 6.13,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 00:00:00?": {
+      "id": 391,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 3.7,
+      "wind_speed": 3.69,
+      "Humidity": 74,
+      "Temperature": 6.36,
+      "Maximum Temperature": 6.36,
+      "Minimum Temperature": 6.36,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 03:00:00?": {
+      "id": 392,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": 3.87,
+      "wind_speed": 2.46,
+      "Humidity": 75,
+      "Temperature": 5.79,
+      "Maximum Temperature": 5.79,
+      "Minimum Temperature": 5.79,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 06:00:00?": {
+      "id": 393,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": 2.31,
+      "wind_speed": 1.65,
+      "Humidity": 86,
+      "Temperature": 3.74,
+      "Maximum Temperature": 3.74,
+      "Minimum Temperature": 3.74,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 09:00:00?": {
+      "id": 394,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": 3.71,
+      "wind_speed": 1.28,
+      "Humidity": 90,
+      "Temperature": 3.71,
+      "Maximum Temperature": 3.71,
+      "Minimum Temperature": 3.71,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 12:00:00?": {
+      "id": 395,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 5.56,
+      "wind_speed": 1.46,
+      "Humidity": 79,
+      "Temperature": 6.37,
+      "Maximum Temperature": 6.37,
+      "Minimum Temperature": 6.37,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 15:00:00?": {
+      "id": 396,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 4.03,
+      "wind_speed": 1.56,
+      "Humidity": 86,
+      "Temperature": 5.14,
+      "Maximum Temperature": 5.14,
+      "Minimum Temperature": 5.14,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 18:00:00?": {
+      "id": 397,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 3.02,
+      "wind_speed": 0.88,
+      "Humidity": 90,
+      "Temperature": 3.02,
+      "Maximum Temperature": 3.02,
+      "Minimum Temperature": 3.02,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-15 21:00:00?": {
+      "id": 398,
+      "name": "Corfes Castle",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 2.44,
+      "wind_speed": 0.99,
+      "Humidity": 90,
+      "Temperature": 2.44,
+      "Maximum Temperature": 2.44,
+      "Minimum Temperature": 2.44,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-16 00:00:00?": {
+      "id": 399,
+      "name": "Corfes Castle",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": 2.06,
+      "wind_speed": 0.73,
+      "Humidity": 90,
+      "Temperature": 2.06,
+      "Maximum Temperature": 2.06,
+      "Minimum Temperature": 2.06,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Corfes Castle at 2023-12-16 03:00:00?": {
+      "id": 400,
+      "name": "Corfes Castle",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": 1.64,
+      "wind_speed": 1.31,
+      "Humidity": 90,
+      "Temperature": 1.64,
+      "Maximum Temperature": 1.64,
+      "Minimum Temperature": 1.64,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-11 06:00:00?": {
+      "id": 401,
+      "name": "Birmingham",
+      "date": "2023-12-11 06:00:00",
+      "feels_like": 9.97,
+      "wind_speed": 13.38,
+      "Humidity": 86,
+      "Temperature": 10.61,
+      "Maximum Temperature": 10.61,
+      "Minimum Temperature": 9.4,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-11 09:00:00?": {
+      "id": 402,
+      "name": "Birmingham",
+      "date": "2023-12-11 09:00:00",
+      "feels_like": 5.99,
+      "wind_speed": 9.21,
+      "Humidity": 84,
+      "Temperature": 9.7,
+      "Maximum Temperature": 9.7,
+      "Minimum Temperature": 7.87,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-11 12:00:00?": {
+      "id": 403,
+      "name": "Birmingham",
+      "date": "2023-12-11 12:00:00",
+      "feels_like": 6.46,
+      "wind_speed": 6.84,
+      "Humidity": 87,
+      "Temperature": 9.59,
+      "Maximum Temperature": 9.59,
+      "Minimum Temperature": 9.08,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-11 15:00:00?": {
+      "id": 404,
+      "name": "Birmingham",
+      "date": "2023-12-11 15:00:00",
+      "feels_like": 6.42,
+      "wind_speed": 5.25,
+      "Humidity": 87,
+      "Temperature": 9.14,
+      "Maximum Temperature": 9.14,
+      "Minimum Temperature": 9.14,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-11 18:00:00?": {
+      "id": 405,
+      "name": "Birmingham",
+      "date": "2023-12-11 18:00:00",
+      "feels_like": 5.94,
+      "wind_speed": 5.8,
+      "Humidity": 87,
+      "Temperature": 8.92,
+      "Maximum Temperature": 8.92,
+      "Minimum Temperature": 8.92,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-11 21:00:00?": {
+      "id": 406,
+      "name": "Birmingham",
+      "date": "2023-12-11 21:00:00",
+      "feels_like": 4.25,
+      "wind_speed": 4.89,
+      "Humidity": 87,
+      "Temperature": 7.29,
+      "Maximum Temperature": 7.29,
+      "Minimum Temperature": 7.29,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-12 00:00:00?": {
+      "id": 407,
+      "name": "Birmingham",
+      "date": "2023-12-12 00:00:00",
+      "feels_like": 4.55,
+      "wind_speed": 3.64,
+      "Humidity": 88,
+      "Temperature": 7.03,
+      "Maximum Temperature": 7.03,
+      "Minimum Temperature": 7.03,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-12 03:00:00?": {
+      "id": 408,
+      "name": "Birmingham",
+      "date": "2023-12-12 03:00:00",
+      "feels_like": 5.98,
+      "wind_speed": 2.59,
+      "Humidity": 88,
+      "Temperature": 7.66,
+      "Maximum Temperature": 7.66,
+      "Minimum Temperature": 7.66,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-12 06:00:00?": {
+      "id": 409,
+      "name": "Birmingham",
+      "date": "2023-12-12 06:00:00",
+      "feels_like": 6.03,
+      "wind_speed": 5.87,
+      "Humidity": 92,
+      "Temperature": 9.01,
+      "Maximum Temperature": 9.01,
+      "Minimum Temperature": 9.01,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-12 09:00:00?": {
+      "id": 410,
+      "name": "Birmingham",
+      "date": "2023-12-12 09:00:00",
+      "feels_like": 5.71,
+      "wind_speed": 7.92,
+      "Humidity": 94,
+      "Temperature": 9.24,
+      "Maximum Temperature": 9.24,
+      "Minimum Temperature": 9.24,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-12 12:00:00?": {
+      "id": 411,
+      "name": "Birmingham",
+      "date": "2023-12-12 12:00:00",
+      "feels_like": 6.69,
+      "wind_speed": 6.72,
+      "Humidity": 98,
+      "Temperature": 9.74,
+      "Maximum Temperature": 9.74,
+      "Minimum Temperature": 9.74,
+      "Weather Description": "moderate rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-12 15:00:00?": {
+      "id": 412,
+      "name": "Birmingham",
+      "date": "2023-12-12 15:00:00",
+      "feels_like": 7.71,
+      "wind_speed": 4.12,
+      "Humidity": 92,
+      "Temperature": 9.81,
+      "Maximum Temperature": 9.81,
+      "Minimum Temperature": 9.81,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-12 18:00:00?": {
+      "id": 413,
+      "name": "Birmingham",
+      "date": "2023-12-12 18:00:00",
+      "feels_like": 6.88,
+      "wind_speed": 4.61,
+      "Humidity": 92,
+      "Temperature": 9.31,
+      "Maximum Temperature": 9.31,
+      "Minimum Temperature": 9.31,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-12 21:00:00?": {
+      "id": 414,
+      "name": "Birmingham",
+      "date": "2023-12-12 21:00:00",
+      "feels_like": 6.34,
+      "wind_speed": 4.04,
+      "Humidity": 91,
+      "Temperature": 8.66,
+      "Maximum Temperature": 8.66,
+      "Minimum Temperature": 8.66,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-13 00:00:00?": {
+      "id": 415,
+      "name": "Birmingham",
+      "date": "2023-12-13 00:00:00",
+      "feels_like": 6.67,
+      "wind_speed": 2.58,
+      "Humidity": 91,
+      "Temperature": 8.23,
+      "Maximum Temperature": 8.23,
+      "Minimum Temperature": 8.23,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-13 03:00:00?": {
+      "id": 416,
+      "name": "Birmingham",
+      "date": "2023-12-13 03:00:00",
+      "feels_like": 6.6,
+      "wind_speed": 2.2,
+      "Humidity": 89,
+      "Temperature": 7.92,
+      "Maximum Temperature": 7.92,
+      "Minimum Temperature": 7.92,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-13 06:00:00?": {
+      "id": 417,
+      "name": "Birmingham",
+      "date": "2023-12-13 06:00:00",
+      "feels_like": 5.9,
+      "wind_speed": 3.43,
+      "Humidity": 93,
+      "Temperature": 8.04,
+      "Maximum Temperature": 8.04,
+      "Minimum Temperature": 8.04,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-13 09:00:00?": {
+      "id": 418,
+      "name": "Birmingham",
+      "date": "2023-12-13 09:00:00",
+      "feels_like": 4.86,
+      "wind_speed": 7.73,
+      "Humidity": 95,
+      "Temperature": 8.55,
+      "Maximum Temperature": 8.55,
+      "Minimum Temperature": 8.55,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-13 12:00:00?": {
+      "id": 419,
+      "name": "Birmingham",
+      "date": "2023-12-13 12:00:00",
+      "feels_like": 4.23,
+      "wind_speed": 10.68,
+      "Humidity": 91,
+      "Temperature": 8.62,
+      "Maximum Temperature": 8.62,
+      "Minimum Temperature": 8.62,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-13 15:00:00?": {
+      "id": 420,
+      "name": "Birmingham",
+      "date": "2023-12-13 15:00:00",
+      "feels_like": 3.24,
+      "wind_speed": 11.61,
+      "Humidity": 86,
+      "Temperature": 8.02,
+      "Maximum Temperature": 8.02,
+      "Minimum Temperature": 8.02,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-13 18:00:00?": {
+      "id": 421,
+      "name": "Birmingham",
+      "date": "2023-12-13 18:00:00",
+      "feels_like": 2.93,
+      "wind_speed": 11.61,
+      "Humidity": 82,
+      "Temperature": 7.79,
+      "Maximum Temperature": 7.79,
+      "Minimum Temperature": 7.79,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-13 21:00:00?": {
+      "id": 422,
+      "name": "Birmingham",
+      "date": "2023-12-13 21:00:00",
+      "feels_like": 3.0,
+      "wind_speed": 9.13,
+      "Humidity": 77,
+      "Temperature": 7.41,
+      "Maximum Temperature": 7.41,
+      "Minimum Temperature": 7.41,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-14 00:00:00?": {
+      "id": 423,
+      "name": "Birmingham",
+      "date": "2023-12-14 00:00:00",
+      "feels_like": 3.37,
+      "wind_speed": 6.73,
+      "Humidity": 78,
+      "Temperature": 7.15,
+      "Maximum Temperature": 7.15,
+      "Minimum Temperature": 7.15,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-14 03:00:00?": {
+      "id": 424,
+      "name": "Birmingham",
+      "date": "2023-12-14 03:00:00",
+      "feels_like": 3.11,
+      "wind_speed": 4.96,
+      "Humidity": 79,
+      "Temperature": 6.4,
+      "Maximum Temperature": 6.4,
+      "Minimum Temperature": 6.4,
+      "Weather Description": "broken clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-14 06:00:00?": {
+      "id": 425,
+      "name": "Birmingham",
+      "date": "2023-12-14 06:00:00",
+      "feels_like": 1.79,
+      "wind_speed": 5.05,
+      "Humidity": 79,
+      "Temperature": 5.38,
+      "Maximum Temperature": 5.38,
+      "Minimum Temperature": 5.38,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-14 09:00:00?": {
+      "id": 426,
+      "name": "Birmingham",
+      "date": "2023-12-14 09:00:00",
+      "feels_like": 0.83,
+      "wind_speed": 5.27,
+      "Humidity": 83,
+      "Temperature": 4.7,
+      "Maximum Temperature": 4.7,
+      "Minimum Temperature": 4.7,
+      "Weather Description": "light rain",
+      "Main Weather": "Rain"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-14 12:00:00?": {
+      "id": 427,
+      "name": "Birmingham",
+      "date": "2023-12-14 12:00:00",
+      "feels_like": 0.65,
+      "wind_speed": 5.57,
+      "Humidity": 89,
+      "Temperature": 4.66,
+      "Maximum Temperature": 4.66,
+      "Minimum Temperature": 4.66,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-14 15:00:00?": {
+      "id": 428,
+      "name": "Birmingham",
+      "date": "2023-12-14 15:00:00",
+      "feels_like": 1.71,
+      "wind_speed": 6.81,
+      "Humidity": 86,
+      "Temperature": 5.88,
+      "Maximum Temperature": 5.88,
+      "Minimum Temperature": 5.88,
+      "Weather Description": "overcast clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-14 18:00:00?": {
+      "id": 429,
+      "name": "Birmingham",
+      "date": "2023-12-14 18:00:00",
+      "feels_like": 2.39,
+      "wind_speed": 4.95,
+      "Humidity": 91,
+      "Temperature": 5.82,
+      "Maximum Temperature": 5.82,
+      "Minimum Temperature": 5.82,
+      "Weather Description": "scattered clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-14 21:00:00?": {
+      "id": 430,
+      "name": "Birmingham",
+      "date": "2023-12-14 21:00:00",
+      "feels_like": 2.59,
+      "wind_speed": 4.97,
+      "Humidity": 88,
+      "Temperature": 5.99,
+      "Maximum Temperature": 5.99,
+      "Minimum Temperature": 5.99,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-15 00:00:00?": {
+      "id": 431,
+      "name": "Birmingham",
+      "date": "2023-12-15 00:00:00",
+      "feels_like": 2.04,
+      "wind_speed": 4.5,
+      "Humidity": 88,
+      "Temperature": 5.37,
+      "Maximum Temperature": 5.37,
+      "Minimum Temperature": 5.37,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-15 03:00:00?": {
+      "id": 432,
+      "name": "Birmingham",
+      "date": "2023-12-15 03:00:00",
+      "feels_like": 1.32,
+      "wind_speed": 4.6,
+      "Humidity": 87,
+      "Temperature": 4.83,
+      "Maximum Temperature": 4.83,
+      "Minimum Temperature": 4.83,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-15 06:00:00?": {
+      "id": 433,
+      "name": "Birmingham",
+      "date": "2023-12-15 06:00:00",
+      "feels_like": 1.09,
+      "wind_speed": 4.46,
+      "Humidity": 87,
+      "Temperature": 4.58,
+      "Maximum Temperature": 4.58,
+      "Minimum Temperature": 4.58,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-15 09:00:00?": {
+      "id": 434,
+      "name": "Birmingham",
+      "date": "2023-12-15 09:00:00",
+      "feels_like": 0.95,
+      "wind_speed": 4.69,
+      "Humidity": 86,
+      "Temperature": 4.57,
+      "Maximum Temperature": 4.57,
+      "Minimum Temperature": 4.57,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-15 12:00:00?": {
+      "id": 435,
+      "name": "Birmingham",
+      "date": "2023-12-15 12:00:00",
+      "feels_like": 3.0,
+      "wind_speed": 4.12,
+      "Humidity": 80,
+      "Temperature": 5.98,
+      "Maximum Temperature": 5.98,
+      "Minimum Temperature": 5.98,
+      "Weather Description": "few clouds",
+      "Main Weather": "Clouds"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-15 15:00:00?": {
+      "id": 436,
+      "name": "Birmingham",
+      "date": "2023-12-15 15:00:00",
+      "feels_like": 2.93,
+      "wind_speed": 4.42,
+      "Humidity": 81,
+      "Temperature": 6.05,
+      "Maximum Temperature": 6.05,
+      "Minimum Temperature": 6.05,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-15 18:00:00?": {
+      "id": 437,
+      "name": "Birmingham",
+      "date": "2023-12-15 18:00:00",
+      "feels_like": 2.09,
+      "wind_speed": 4.05,
+      "Humidity": 85,
+      "Temperature": 5.21,
+      "Maximum Temperature": 5.21,
+      "Minimum Temperature": 5.21,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-15 21:00:00?": {
+      "id": 438,
+      "name": "Birmingham",
+      "date": "2023-12-15 21:00:00",
+      "feels_like": 1.33,
+      "wind_speed": 4.57,
+      "Humidity": 85,
+      "Temperature": 4.82,
+      "Maximum Temperature": 4.82,
+      "Minimum Temperature": 4.82,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-16 00:00:00?": {
+      "id": 439,
+      "name": "Birmingham",
+      "date": "2023-12-16 00:00:00",
+      "feels_like": 1.34,
+      "wind_speed": 4.05,
+      "Humidity": 85,
+      "Temperature": 4.6,
+      "Maximum Temperature": 4.6,
+      "Minimum Temperature": 4.6,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  },
+  {
+    "What's the weather for the next week in Birmingham at 2023-12-16 03:00:00?": {
+      "id": 440,
+      "name": "Birmingham",
+      "date": "2023-12-16 03:00:00",
+      "feels_like": 1.3,
+      "wind_speed": 4.06,
+      "Humidity": 85,
+      "Temperature": 4.57,
+      "Maximum Temperature": 4.57,
+      "Minimum Temperature": 4.57,
+      "Weather Description": "clear sky",
+      "Main Weather": "Clear"
+    }
+  }
+]

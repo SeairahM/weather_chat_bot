@@ -1,12 +1,9 @@
-# Import libraries.
 from flask import *
 from flask_sqlalchemy import SQLAlchemy
 import json
 from WeatherAPIProcessor import WeatherAPIProcessor
-import sqlite3
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer, ChatterBotCorpusTrainer
-import nltk
 import ssl
 from DataWrangler import DataWrangler
 
@@ -63,7 +60,6 @@ def chatbot_response():
 
 if __name__ == '__main__':
     try:
-        print("Remember to uncomment this")
         weather_api_db_creation = WeatherAPIProcessor()
         weather_api_db_creation.weather_db_creation()
     finally:

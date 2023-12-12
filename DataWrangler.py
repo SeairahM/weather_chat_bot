@@ -39,12 +39,6 @@ class DataWrangler:
         _create_unverified_https_context = ssl._create_unverified_context
         data_list = []
 
-        # Train for "What's the weather for the next week?"
-        # Whats the weather in cambridge next week?
-        # Whats the temperature in Norwich on the 13/12/2023?
-        # Is it raining in
-
-        i = 0
         for row in record:
             data_list.append({
                 "What's the weather for the next week in " + row[1] + " at " + row[2] + "?": {
@@ -63,5 +57,3 @@ class DataWrangler:
         text_file_path = "weatherData/general_weather_question.json"
         with open(text_file_path, 'w') as file:
             json.dump(data_list, file, indent=2)
-        i += 1
-        print(f'JSON data has been written to {text_file_path}')
